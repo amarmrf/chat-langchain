@@ -1,6 +1,8 @@
+import { useState } from "react";
 import "react-toastify/dist/ReactToastify.css";
 import { Card, CardBody, Heading } from "@chakra-ui/react";
 import { sendFeedback } from "../utils/sendFeedback";
+import { DocumentDialog } from "./DocumentDialog";
 
 export type Source = {
   url: string;
@@ -20,32 +22,45 @@ export function SourceBubble({
   onMouseLeave: () => any;
   runId?: string;
 }) {
+  const [isDialogOpen, setIsDialogOpen] = useState(false);
+
+  const handleCardClick = async () => {
+    setIsDialogOpen(true);
+    if (runId) {
+      await sendFeedback({
+        key: "user_click",
+        runId,
+        value: source.url,
+        isExplicit: false,
+      });
+    }
+  };
+
   return (
-    <Card
-      onClick={async () => {
-        window.open(source.url, "_blank");
-        if (runId) {
-          await sendFeedback({
-            key: "user_click",
-            runId,
-            value: source.url,
-            isExplicit: false,
-          });
-        }
-      }}
-      backgroundColor={highlighted ? "rgb(58, 58, 61)" : "rgb(78,78,81)"}
-      onMouseEnter={onMouseEnter}
-      onMouseLeave={onMouseLeave}
-      cursor={"pointer"}
-      alignSelf={"stretch"}
-      height="100%"
-      overflow={"hidden"}
-    >
-      <CardBody>
-        <Heading size={"sm"} fontWeight={"normal"} color={"white"}>
-          {source.title}
-        </Heading>
-      </CardBody>
-    </Card>
+    <>
+      <Card
+        onClick={handleCardClick}
+        backgroundColor={highlighted ? "rgb(58, 58, 61)" : "rgb(78,78,81)"}
+        onMouseEnter={onMouseEnter}
+        onMouseLeave={onMouseLeave}
+        cursor={"pointer"}
+        alignSelf={"stretch"}
+        height="100%"
+        overflow={"hidden"}
+      >
+        <CardBody>
+          <Heading size={"sm"} fontWeight={"normal"} color={"white"}>
+            {source.title}
+          </Heading>
+        </CardBody>
+      </Card>
+      
+      <DocumentDialog
+        isOpen={isDialogOpen}
+        onClose={() => setIsDialogOpen(false)}
+        source={source}
+        description="View full documentation source"
+      />
+    </>
   );
 }
