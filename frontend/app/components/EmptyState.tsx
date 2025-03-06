@@ -31,7 +31,7 @@ export function EmptyState(props: { onChoice: (question: string) => any }) {
               color={"gray.200"}
               textAlign={"center"}
             >
-              What does the Culture say about the purpose of life?
+              What does the Culture say about China and the US?
             </Heading>
           </CardHeader>
         </Card>
@@ -52,7 +52,7 @@ export function EmptyState(props: { onChoice: (question: string) => any }) {
               color={"gray.200"}
               textAlign={"center"}
             >
-              Who is Samo Burja and what are his ideas?
+              What was discussed about geopolitics and governance?
             </Heading>
           </CardHeader>
         </Card>
@@ -74,7 +74,7 @@ export function EmptyState(props: { onChoice: (question: string) => any }) {
               color={"gray.200"}
               textAlign={"center"}
             >
-              What does the Culture say about free will?
+              What can you tell me about the future of technology?
             </Heading>
           </CardHeader>
         </Card>
