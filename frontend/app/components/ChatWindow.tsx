@@ -236,7 +236,7 @@ export function ChatWindow(props: { conversationId: string }) {
             marginTop={"10px"}
             textAlign={"center"}
           >
-            Ask me anything about the Culture based on our research lectures transcripts!
+            Ask me anything about Live Players Podcast based on our research lectures transcripts!
           </Heading>
         )}
         <div className="text-white flex flex-wrap items-center mt-4">
@@ -292,7 +292,7 @@ export function ChatWindow(props: { conversationId: string }) {
           value={input}
           maxRows={5}
           marginRight={"56px"}
-          placeholder="What does the Culture say about the purpose of life?"
+          placeholder="What does Live Players Podcast say about the purpose of life?"
           textColor={"white"}
           borderColor={"rgb(58, 58, 61)"}
           onChange={(e) => setInput(e.target.value)}

@@ -31,7 +31,7 @@ export function EmptyState(props: { onChoice: (question: string) => any }) {
               color={"gray.200"}
               textAlign={"center"}
             >
-              What does the Culture say about China and the US?
+              What does Live Players Podcast say about China and the US?
             </Heading>
           </CardHeader>
         </Card>
