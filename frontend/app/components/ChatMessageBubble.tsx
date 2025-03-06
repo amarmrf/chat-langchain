@@ -349,20 +349,6 @@ export function ChatMessageBubble(props: {
               👎
             </Button>
             <Spacer />
-            <Button
-              size="sm"
-              variant="outline"
-              colorScheme={runId === null ? "blue" : "gray"}
-              onClick={(e) => {
-                e.preventDefault();
-                viewTrace();
-              }}
-              isLoading={traceIsLoading}
-              loadingText="🔄"
-              color="white"
-            >
-              📚🔍 View source
-            </Button>
           </HStack>
         )}
 

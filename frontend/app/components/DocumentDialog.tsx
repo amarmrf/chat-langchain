@@ -17,6 +17,17 @@ import {
 import { ExternalLinkIcon } from "@chakra-ui/icons";
 import { Source } from "./SourceBubble";
 
+// Function to clean up the source title by removing breadcrumbs and numbers
+const cleanSourceTitle = (title: string): string => {
+  // Remove phrases like "[English (auto-generated)]", "DownSub.com" and numbers like "(1)"
+  return title
+    .replace(/\[\s*English\s*\(auto-generated\)\s*\]/gi, '')
+    .replace(/\[DownSub\.com\]/gi, '')
+    .replace(/\(\d+\)$/g, '')
+    .replace(/DownSub\.com/gi, '')
+    .trim();
+};
+
 interface DocumentDialogProps {
   isOpen: boolean;
   onClose: () => void;
@@ -34,6 +45,13 @@ export function DocumentDialog({
 }: DocumentDialogProps) {
   const [transcriptContent, setTranscriptContent] = useState<string>(content);
   const [isLoading, setIsLoading] = useState<boolean>(false);
+
+  useEffect(() => {
+    // Update transcriptContent when content prop changes
+    if (content) {
+      setTranscriptContent(content);
+    }
+  }, [content]);
 
   useEffect(() => {
     const fetchTranscriptContent = async () => {
@@ -67,13 +85,24 @@ export function DocumentDialog({
   }, [isOpen, source.url, transcriptContent]);
 
   return (
-    <Modal isOpen={isOpen} onClose={onClose} size="xl" scrollBehavior="inside">
+    <Modal 
+      isOpen={isOpen} 
+      onClose={onClose} 
+      size="4xl" 
+      scrollBehavior="inside"
+      isCentered
+    >
       <ModalOverlay />
-      <ModalContent bg="rgb(38, 38, 41)" color="white">
+      <ModalContent 
+        bg="rgb(38, 38, 41)" 
+        color="white" 
+        maxH="80vh"
+        minH="50vh"
+      >
         <ModalHeader>
           <Flex justifyContent="space-between" alignItems="center">
             <Heading size="md" color="white">
-              {source.title}
+              {cleanSourceTitle(source.title)}
             </Heading>
             {source.url && !source.url.includes("[") && (
               <Link 
@@ -89,8 +118,8 @@ export function DocumentDialog({
           </Flex>
         </ModalHeader>
         <ModalCloseButton />
-        <ModalBody>
-          {description && (
+        <ModalBody pb={6}>
+          {description && description.trim() !== "" && (
             <>
               <Text color="gray.300" mb={3}>
                 {description}

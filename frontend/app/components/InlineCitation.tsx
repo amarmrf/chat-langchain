@@ -22,7 +22,7 @@ export function InlineCitation(props: {
         onMouseEnter={onMouseEnter}
         onMouseLeave={onMouseLeave}
       >
-        {sourceNumber}
+        {sourceNumber + 1}
       </button>
       
       <DocumentDialog
