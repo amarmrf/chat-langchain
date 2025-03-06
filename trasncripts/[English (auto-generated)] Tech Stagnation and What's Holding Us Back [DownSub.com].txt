@@ -1,0 +1,2348 @@
+[Music]
+
+Welcome To Live players where political
+
+scientists and strategists Sam o bua and
+
+I discuss the key individuals with the
+
+power to alter our current Society every
+
+week we provide analysis of the news and
+
+case studies of Live players as well as
+
+key institutions and technologies that
+
+make up the global power landscape let's
+
+dive
+
+in hi Eric hey hey how are you doing
+
+hope you're having a good day yes yes I
+
+am having a good day thanks for your
+
+patience excited to uh shout about tech
+
+stagnation why don't we start with an
+
+introduction what is the tech stagnation
+
+for or thesis for people who are
+
+unfamiliar that Peter teal and Tyler
+
+Cowen helped popularized in in the last
+
+decade and and are we still in it it
+
+would seem like uh things have changed
+
+over the past few years thanks to open
+
+AI thanks to advancements in in in
+
+biotech and VR Etc and maybe things are
+
+a bit different than they were before
+
+the pandemic but what what is your
+
+perspective the great stagnation has
+
+been a thesis that the rate of
+
+technological progress across many
+
+domains has in fact significantly slowed
+
+down from its peak in about 1870 to
+
+1970 and I think one of the core parts
+
+of the argument is not that there is no
+
+uh relatively rapid technological
+
+progress but that it is constrained to
+
+the world of bits rather than the world
+
+of atoms so instead of there being a
+
+revolution in chemistry a revolution in
+
+uh physics a revolution in biology a
+
+revolution in mathematics and computer
+
+science Etc right Technologies like the
+
+Green Revolution and fertilizers nuclear
+
+power honestly faster you know
+
+supersonic flight space travel and the
+
+very first computers emerged in the same
+
+time period right this this period from
+
+1870 to 1970 so if today we have perhaps
+
+after the pandemic seeing a return to
+
+progress in VR and artificial
+
+intelligence that just shows that maybe
+
+five or 10 years ago even bits were not
+
+advancing very quickly we perhaps
+
+narrativized them as advancing very
+
+quickly but I doubt any one of us really
+
+cares for the difference between a 200
+
+10 era iPhone in a 2014 era iPhone
+
+looking back on it right with a few
+
+years of distance uh the iPhone itself
+
+was however acknowledged in public
+
+appearances by teal and in Tyler's
+
+writing as a significant breakthrough in
+
+its own right so the thesis was always
+
+about why are we only seeing progress in
+
+let's say computers broadly understood
+
+or information technology broadly
+
+understood and maybe the strong stronger
+
+variant of it is that Mo's law which was
+
+supposed to change everything mostly
+
+just changed information Tech and did
+
+not translate quite as easily uh into
+
+biology into chemistry into physics uh
+
+things like new energy sources new
+
+materials and new medicine we could also
+
+look at you know companies like SpaceX
+
+and Tesla and Andre and lots you know
+
+other companies that are building things
+
+the real world and advancements that are
+
+happening in in is it just that there's
+
+not enough of them or when would we know
+
+that we've uh We've exited this great
+
+stagnation is it the just the
+
+productivity statistics or is it
+
+something a bit more
+
+qualitative I think that um measuring
+
+progress or measuring technological
+
+progress is very tricky it's a tricky
+
+undertaking um and the argument is
+
+because of this mostly qualitative it is
+
+an argument for look in the 1870s you
+
+have cities uh with literally horse
+
+manure in the streets
+
+uh no electric lighting and 1970 well
+
+you have astronauts walking on the moon
+
+and you know maybe the mother of all
+
+demos hasn't quite yet been made but the
+
+idea that we would have an AI Revolution
+
+eventually well that happened and
+
+nuclear weapons and nuclear energy were
+
+a reality and all of these things across
+
+so many fields I find it strange that if
+
+there is such rapid progress in all
+
+aspects of modern technology
+
+that we the everyday user and consumer
+
+experience so little except for what can
+
+receive updates on our devices so
+
+anything where you can download a
+
+software update you in fact will still
+
+see progress right I can install uh chat
+
+GPT as an app on my phone right now I
+
+couldn't do that five years ago so now I
+
+can have a conversation with a computer
+
+not necessarily my phone or my computer
+
+but this would not have perplexed anyone
+
+in 19 19 60 if I said hey you know in
+
+the distant year of 2024 uh we will have
+
+pocket computers that dial up wirelessly
+
+to talk to Big computers far away and I
+
+can have like a conversational text
+
+exchange with this big computer far away
+
+uh I don't think anyone would be
+
+confused actually I think they might
+
+find the the idea of the personal
+
+computer without any sort of Big Data
+
+Centers behind it more confusing so in a
+
+way if I try to explain the technology
+
+of 1995 that would have been more of a
+
+surprise to them uh than right now where
+
+honestly this thing the smartphone it's
+
+kind of evolving to just be a terminal
+
+like if we described it as a portable
+
+wireless terminal to someone from 1965
+
+this is a future they would have
+
+understood and if we told them hey we
+
+can talk to computers uh they would be
+
+maybe even surprised that it took to
+
+2024 to get conversational computers so
+
+really this felt sense of progress and
+
+the idea that science fiction is science
+
+realism right or is realism about the
+
+near future that was ubiquitous in 1960
+
+and is not so today so the very fact
+
+again that people expect less progress I
+
+think shows that there in fact is less
+
+progress like less of it touches their
+
+personal
+
+experience is is it do you think that
+
+it's here but it's just not evenly
+
+distributed yet I mean in San Francisco
+
+we do have self driv right you know boom
+
+is making supersonic planes we do have
+
+embryo selection and Gene editing and
+
+all all this crazy stuff that is uh not
+
+yet mainstream not even close but in
+
+small Pockets actually happening well if
+
+the future is already here and it's just
+
+not evenly distributed maybe this was
+
+always true right again when you had the
+
+mother of all demos you could see a
+
+point-and-click use of what we would
+
+today recognize as a computer desktop
+
+completely blew everyone's Minds in the
+
+room uh and again it took until the
+
+1990s to actually have that be common
+
+and if we're talking about uh supersonic
+
+uh travel I do think that there is uh an
+
+important benefit there where bits have
+
+delivered on some of the promise in the
+
+world of Adams um I think that for
+
+example they make uh ample use of
+
+basically software tools maybe they've
+
+started using machine learning to model
+
+some of the aerodynamic phenomena as
+
+well I don't remember um but those
+
+planes are uh in design better than the
+
+1960s and 7s design for supersonic
+
+travel but again we're talking about
+
+relatively let's say fuele efficient
+
+supersonic travel uh the Concord was in
+
+operation for decades between New York
+
+and London so if we're saying that oh
+
+okay we are very close now to being to
+
+able to buy a supersonic plane ticket
+
+commercially again from the user's
+
+experience this does not yet feel like
+
+progress it might be technically
+
+impressive but it is not accessible and
+
+actually is worse it used to be
+
+accessible right like you could buy a
+
+pricey supersonic ticket on the Concord
+
+from New York to London hey everybody
+
+Eric here with a word from our
+
+sponsors the tech World Turns to the
+
+brave browser for its unbeatable privacy
+
+protections but did you know that brave
+
+also has a private ad platform Brave ads
+
+offers first-party targeting and it's
+
+been Cookie list since day one so you
+
+can relax while third party tracking
+
+cookies disappear from the web today
+
+millions of people turn to ad blockers
+
+to avoid being tracked and pestered
+
+online for Brave's new ad model aligns
+
+incentives for users and advertisers
+
+users earn rewards for viewing ads which
+
+they can save spend or pass along to
+
+their favorite creators and advertisers
+
+score points for respecting user privacy
+
+generating Roi without invasive tracking
+
+so whether it's high impact
+
+announcements on the new new tab page or
+
+keyword targeted ads in Brave search
+
+Brave offers diverse private futureproof
+
+ad formats for all your business goals
+
+join the future of advertising at
+
+brave.com ads mention Oz when signing up
+
+for a 25% discount on your first
+
+[Music]
+
+campaign you you you've tweeted and
+
+written some briefs about giving
+
+examples of how Tech culture has
+
+stagnated or that it's acknowledged it's
+
+stagnated why don't you give more
+
+examples are kind of flush out that that
+
+argument I think that there is a way in
+
+which we have seen a relative slowdown
+
+um of software by which I mean that uh
+
+openi is a beautiful example of a
+
+company that you can actually still
+
+think of as what I would call a late
+
+internet company what do I mean by late
+
+versus early internet companies well I
+
+think that we have reached the point
+
+where never again in our future we 10
+
+times more people use the internet uh
+
+than they do right now like at least
+
+until the population grows massively
+
+right maybe we're going to have to
+
+colonize a few extra planets but if you
+
+checked out the online World from about
+
+the year 2000 to 2015 you were
+
+experiencing like practically doublings
+
+of people who have access to the
+
+internet who use it right and then later
+
+on how many devices they own that are
+
+connected to the internet right like
+
+people might have a laptop a phone they
+
+might have two phon phones The Internet
+
+of Things was like an attempt to extend
+
+this idea that okay maybe the number of
+
+people stagnate but the number of
+
+devices they have in their home that are
+
+online enabled or whatever is going to
+
+continue increasing right so you
+
+basically have these nodes in a network
+
+meta's law is that the more nodes that
+
+there are in this network it becomes
+
+almost exponentially more valuable we've
+
+reached kind of saturation right now
+
+maybe twice as many people will use the
+
+internet in the future but not four
+
+times as many we've run out of them
+
+people in India use it people in Nigeria
+
+are starting to use it China has
+
+developed a full independent commercial
+
+stack many of the easy things that could
+
+be done with computers and that could be
+
+delivered to a user through the input
+
+devices that I provocatively called
+
+portable terminals right I think they've
+
+already been done and this still means
+
+that there will be very valuable
+
+companies but I think that it's telling
+
+that a lot of the companies people are
+
+most excited about are basically like
+
+busino business SAS and stuff like that
+
+right it feels very much like
+
+infrastructure for the consumer facing
+
+uh products that consumers already
+
+use rather than this sort of like novel
+
+direct experience that the uh user might
+
+have which really blew our minds over
+
+and over again like it's hard to
+
+remember but I think that the
+
+introduction of like good navigation and
+
+Maps like Google Maps I think that
+
+changed people's lives actually probably
+
+to a comparable degree to chat GPT let's
+
+say like right now I uh practically
+
+don't know many of the Cities I visit
+
+because I rely on my map and it's the
+
+same for Apple users and their apple
+
+equivalents and it's the same for every
+
+'s Driving Experience so really like the
+
+introduction of maps was like a pretty
+
+big change having a conversational
+
+computer having a conversational phone
+
+like the chat bot right that's like
+
+comparable but it's rare it's been years
+
+since the last thing like chat gpt's
+
+virality happened Eric like what would
+
+you name as the last thing that had
+
+happened before chat GPT that was like
+
+similarly viral and big yeah can't
+
+really remember Clubhouse was pretty big
+
+at one point that's true yeah but that
+
+was you know during covid and you can't
+
+compare it to chat GPT it didn't have a
+
+sense for the world is different because
+
+of this I would argue that at least
+
+Facebook was such a thing but again
+
+that's like a decade earlier right and
+
+again I think Clubhouse was definitely a
+
+contender during uh the co lockdowns
+
+right yeah Facebook Twitter I snap some
+
+I guess social networks Tik Tok
+
+obviously became became massive
+
+Tik Tok is huge though but it's
+
+following this pattern of social media
+
+as is people point out oh actually it's
+
+very similar what was the other service
+
+the US company uh that was before Tik
+
+Tok V Vine or music Vine exactly people
+
+knew that there was something in the
+
+space of algorithmically recommended
+
+short video and you know Tik Tok was
+
+just you know the one to win uh so it's
+
+a little bit of a Google versus Yahoo
+
+story let's say or something like that
+
+and so basically you're saying is
+
+there's software slowdown if only
+
+because I guess the flip side of it
+
+we've reached everybody or almost
+
+everybody we've reached everybody so
+
+while there are still new things to do
+
+with this existing connection of
+
+everyone you know there's no loow
+
+hanging fruit right there's no that
+
+happens at the next doubling of the
+
+number of people connected on the
+
+internet because there's not going to
+
+ever be a next doubling right yeah right
+
+like this is also why a few years ago
+
+before Zuckerberg pivoted uh Facebook
+
+look into you know the metaverse which
+
+people made fun of at the time but maybe
+
+is actually now in retrospect seeming a
+
+much wiser choice right now that they
+
+are basically Apple's sort of only
+
+competitor when Apple came out with
+
+their BR device before they went into
+
+the metaverse they were considering
+
+becoming sort of the backbone of the
+
+internet in India and then a variety of
+
+regulatory challenges prevented them
+
+from doing that they were exploring
+
+schemes like maybe even buying people
+
+internet right or paying for it at a
+
+loss and getting that nice um lockin
+
+effect and then maybe pairing it up with
+
+a currency a cryptocurrency like Libra
+
+which also kind of failed to basically
+
+become India's super app I think that
+
+was like a strong and reasonable play
+
+but people are now in India and they are
+
+online and that sort of opportunity
+
+doesn't really happen so I think the
+
+next software applications will no
+
+longer be this effect of having
+
+connected everyone to the internet and
+
+then everyone figuring out what are all
+
+the things I can do with other people
+
+online I think that is sort of ended I
+
+think we figured out most of the things
+
+we can do with this foreign factor and
+
+things like um there'll be like quality
+
+improvements of various kinds and
+
+there'll be human to machine interfaces
+
+I'm sure there's still Information
+
+Services there but this sort of like
+
+instant verality of a large user base
+
+like I think that's going to happen much
+
+more infrequently not as rapidly as it
+
+did from about 2000 to
+
+2010 yeah it's funny because it it's
+
+also we don't have that much room to
+
+expand the amount of people uh that are
+
+online but also we don't have that much
+
+room to expand the amount of time that
+
+people spend online because I remember
+
+when I was a kid I used to say you know
+
+be right back to my friends as if I was
+
+going off of the yeah and and the
+
+default was I was disconnected whereas
+
+now I'm just always connected there
+
+there and so how much more time can you
+
+really get from me to be you know
+
+plugged into some you know digital sort
+
+of device or experience not that much
+
+more yeah and like texting has been
+
+significantly replaced by various
+
+messaging apps and with the emergence of
+
+the Smartwatch you've kind of reached
+
+24/7 saturation and with the aura ring
+
+you know with collecting your data in
+
+your sleep I don't know maybe they're
+
+like dream sharing let's put this way
+
+maybe they are dream measuring
+
+innovation
+
+where people share their dreams on
+
+social media I like Dread to think of
+
+the monetization schemes people would
+
+come up with but that's sort of like
+
+almost the that's the kind of Technology
+
+science fiction technology which might
+
+become science fact one day that you
+
+have to look in to increase people's
+
+Time online at this point it's no longer
+
+something easy like well let's make you
+
+know a smart watch or let's give them a
+
+fun extra thing to do it's displaced and
+
+absorbed television it's displaced and
+
+absorbed texting and uh there's not that
+
+much else left to do yeah you had one
+
+tweet that I want to read really quickly
+
+the other day where you said I think
+
+Orwell as politics in the English
+
+language need a followup essay
+
+technology in the English language we've
+
+reached a point where industry terms in
+
+a variety of fields actively obscure
+
+what is or what is not happening
+
+materially can you unpack that I think
+
+that um industrial jargon should be
+
+technically precise rather than hijacked
+
+by marketing and financial distortions
+
+there is a deep value in marketing based
+
+basically we adopt as a society much
+
+more quickly new technologies and ways
+
+of doing things now the tricky situation
+
+emerges when you start talking about
+
+something like 3D printing would you be
+
+surprised to learn that 3D printing
+
+actually refers to seven common and
+
+distinct techniques of
+
+manufacturing right there's no actual
+
+single technology that you can call 3D
+
+printing it is a a thesis in a way
+
+about production and there are several
+
+technologies that each have a useful use
+
+case maybe it would be better if we
+
+talked about each of these seven
+
+Technologies individually because let's
+
+be real if you're trying to invest for
+
+example in a 3D printing company or
+
+deciding where a 3D printing component
+
+might fit your manufacturing process why
+
+don't you just use a name for each of
+
+these seven distinct techniques why have
+
+an umbrella term and the answer is the
+
+umbrella term term is there to produce
+
+this illusion of a massive Market rather
+
+than what is for now kind of a niche
+
+application in sort of machine tooling
+
+of various kinds right uh you have like
+
+car repair shops will now occasionally
+
+print 3D print components right but you
+
+don't have any Mass manufactured product
+
+that's fully 3D printed that would be a
+
+science fiction promise something that
+
+could happen in the future when you can
+
+combine multiple materials moving parts
+
+and the thesis there actually which no
+
+one explicates really is that instead of
+
+having many many specialized machines
+
+where you move through them software
+
+would make it more efficient to have a
+
+single machine complete all the steps of
+
+building a product and then give you
+
+that product you know like a Star Trek
+
+replicator almost and that these
+
+machines uh these 3D printers would be
+
+very flexible and could just with a
+
+software update change to manufacture
+
+something totally different that would
+
+be amazing that would mean that
+
+factories could have much lower
+
+capitalization costs etc
+
+etc but describing an economic Niche
+
+rather than describing a technical Niche
+
+then obscures how fast progress would be
+
+in the relevant 3D printing techniques
+
+uh another example is I wish people
+
+talked more about uh software um
+
+information architectures let's say an
+
+artificial intelligence right people
+
+talk about large language
+
+models but you know the large language
+
+models uh run in a particular
+
+architecture that's only been sort of
+
+stumbled upon relatively recently right
+
+talking about the Transformer
+
+architecture the image generation the
+
+very best image Generation Um I don't
+
+yet know about the video that open AI
+
+recently released the video generation
+
+but before this mid Journey was making
+
+better pictures than
+
+and it was based on diffusion models
+
+Eric do you happen to know is the video
+
+generation that's happening is that also
+
+based on diffusion models I'm I'm I'm
+
+not deep enough to to know okay so I
+
+think many of us don't right so again
+
+instead of talking about the result
+
+maybe we should talk about the technique
+
+can you imagine a world where we just
+
+talked about Vehicles all the time and
+
+never bother to clarify whether we're
+
+talking about an internal combustion
+
+vehicle uh car with a with a gas engine
+
+or an electric vehicle uh if I started
+
+talking about progress in cars and
+
+started using numbers that put these two
+
+different Technologies in the same
+
+bucket I think it would be very easy to
+
+obscure either a lack of progress or to
+
+like not notice when real progress is
+
+happening I could give a third example
+
+right in addition to AI in addition to
+
+3D printing I think Green Technology is
+
+a useless umbrella term there is nothing
+
+fundamental about out wind power solar
+
+power geothermal power that would
+
+suggest that progress in any of these
+
+Technologies is correlated solar is
+
+going pretty fast wind is kind of slow
+
+geothermal hasn't even gotten started
+
+though I'm bullish on it
+
+right renew so-called Renewables
+
+so-called green energy is a political
+
+marketing term it's an ask for subsidies
+
+right and it's an ask for hey wouldn't
+
+it be be nice of X and I really think
+
+there is a problem when the majority of
+
+conversations about a technology or even
+
+the majority of conversations in an
+
+industry because it's the best way to
+
+either receive money from investors or
+
+from the government start being in these
+
+obscurist technical terms that
+
+intentionally conflate categories if I
+
+had a very weird new technology I might
+
+want to Brand it as Green Tech or
+
+renewable Tech
+
+because I'm counting on investors and
+
+the government and others not needing to
+
+really understand what my technology is
+
+about it it it is
+
+helpful but isn't it a warning sign that
+
+we have huge sectors of the economy
+
+making massive bets on things most
+
+participants in the economy don't know
+
+about now of course like you know when
+
+Venture capitalists specialize in
+
+something and when founders and
+
+Technology specialize in these things
+
+they start to learn and they intuitively
+
+grasp what's sort of vague jargon term
+
+and what's a technically precise
+
+conversation about technical you know
+
+about what is possible so you know uh I
+
+think that however having clear language
+
+reduces barriers to entry and reduces
+
+capital misallocation and reduces
+
+basically the cost of having inaccurate
+
+narratives about the future of
+
+technology affect decision- making of
+
+everyone so at what point will we think
+
+that we are no longer in its expectation
+
+what needs to happen or what what needs
+
+to become true and then we could talk
+
+about maybe what are the bottlenecks or
+
+the causes there's several measures my
+
+favorite measure is energy consumption
+
+If energy consumption goes way up it
+
+means we have way more things to do if
+
+energy consumption is not way up well
+
+you know efficiency is real if you keep
+
+your lights on all night this won't cost
+
+you anything the era of your parents
+
+indescent light bulb is over the LED is
+
+there it's a colder light literally and
+
+metaphorically it doesn't waste uh
+
+energy by producing heat you don't
+
+really need like a traditional light
+
+bulb so I don't want to completely deny
+
+efficiency but let's put it this way if
+
+you have um a machine that's 20%
+
+efficient and you push it to 80%
+
+efficiency that's a 4ex
+
+gain and you've basically exhausted it
+
+you're never else going to get like a
+
+Forex gain in efficiency there's like a
+
+ceiling to it right as technology
+
+becomes efficient you eventually spend
+
+as little energy as physics allows for a
+
+particular
+
+action and after that point there's
+
+quantity if I spend 20 units of energy
+
+doing 20 things and then I spend 80
+
+units of energy doing 80 things well it
+
+could easily Forex once more so it can
+
+go from 80 to0 60 320 640 etc etc in
+
+other words efficiency is always sort of
+
+pushing against the ceiling and you can
+
+tell where the ceiling is going to be
+
+meanwhile like the sort of quantity
+
+keeps going and because of that I think
+
+that given our emphasis on efficiency in
+
+the last 20 years uh we've probably
+
+picked all the low hanging fruit already
+
+and really energy will once more be a
+
+pretty good measure of how many things
+
+do so I would say that if after the next
+
+20 years or 30 years we spent two times
+
+or four times or 10 times as much energy
+
+as a planet uh then I would say that the
+
+great stagnation is over and that we are
+
+once more in an era of Rapid industrial
+
+progress an ongoing rather than Frozen
+
+industrial and technological and
+
+Revolution and it totally might happen
+
+right like again if the full promise of
+
+AG GI where I mean not the general party
+
+Savvy conversationalist you know chat
+
+maybe has automated cocktail parties but
+
+the generally applicable intelligence
+
+that can solve scientific problems
+
+material problems etc etc if that
+
+promise comes to be I could see you know
+
+servers actually spending 10 times as
+
+much energy as they as the whole planet
+
+does today and it making economic sense
+
+and I think that would be a fulfillment
+
+of that promise but also say if you know
+
+we spend twice as much energy on
+
+supersonic flight as we do today it's
+
+really hard to tell a story of
+
+ubiquitous progress that isn't a high
+
+energy story right it's very hard to
+
+describe that Ste man the for people who
+
+are dubious that that is the right way
+
+of determining whether we we were out of
+
+the stagnation or not or determining
+
+sort of the impact of of energ what's
+
+the critique to what you just said the
+
+steal man of it I think the efficiency
+
+critique uh which try to account for a
+
+little bit but I you can push it further
+
+and there's also an argument that
+
+there's a bunch of stuff we're doing
+
+with energy that's just unnecessary
+
+right why do 10 things for 10 units of
+
+energy if one thing gets you the utility
+
+of it um and you might say that uh for
+
+example a roller coaster ride might be
+
+more energy intense than spending an
+
+hour on your smartphone but maybe you
+
+could actually have more fun on your
+
+smartphone than on a roller coaster ride
+
+let's say right or uh perhaps supersonic
+
+flight is a great advance and it's good
+
+to go to New York but you know what
+
+maybe VR is just good enough that
+
+actually you don't need to go to New
+
+York you just put on your VR set and you
+
+are talking to someone in New York right
+
+now and you're there virtually even
+
+faster than you would be with a plane so
+
+there is an argument to be made that um
+
+there are all sorts of things that we
+
+don't don't need to be doing that can be
+
+substituted for stuff that doesn't need
+
+energy and that therefore energy is just
+
+another resource right if we're tracking
+
+the number of horses we're using you
+
+might say well we're in a great
+
+stagnation because we're using about as
+
+many horses as last year and actually
+
+we're using many fewer there are far
+
+fewer horses in use now than 100 years
+
+ago so if energy is less this like
+
+physics measure of how much stuff we're
+
+doing and more just a resource like
+
+horses then it's not a good measure
+
+that's really interesting where would
+
+you feel differently or think
+
+differently or disagree with Peter teal
+
+or Tyler cowen's sort of understanding
+
+of of this or their their take on this I
+
+think Tyler's perspective has been that
+
+in terms of raw economic growth the
+
+great stagnation is sort of already over
+
+he said something to this effect a
+
+little while ago and he's especially
+
+bullish about AI note Tyler
+
+uses economic growth as measured by GDP
+
+and other normal econometrics measures
+
+to measure progress I would disagree
+
+with him on that being the best measure
+
+and the reasoning for this is that I
+
+think we have such deep incentives to
+
+distort both GDP figures and to distort
+
+how we are accounting for the growth of
+
+the economy that the financial measures
+
+are not really tied to reality that well
+
+again you know I you print $2 trillion
+
+well the use economy is bigger by $2
+
+trillion uh that doesn't mean people are
+
+much wealthier right and this kind of
+
+perspective that accounting for
+
+inflation the world isn't growing very
+
+much I I think this is in a way now that
+
+we can be bullish about AI I think it's
+
+become okay to say almost that economic
+
+growth isn't doing that well and that it
+
+doesn't mean that much so I think that a
+
+key disagreement me and Tyler would have
+
+and we would diagnose different things
+
+as stagnation different things as
+
+cessation of stagnation would be on
+
+these sort of metrics that economists
+
+use that basically like are
+
+financialized I sort of almost believe
+
+more in the Raw quantity of steel
+
+production where does the steel come
+
+from where do the iPhones come from that
+
+feels easier than sort of trying to do
+
+these purchasing power adjusted uh
+
+comparison of things like GDP right
+
+let's say more about the the bottlenecks
+
+or or the causes as to the stagnation
+
+some people you alluded to it earlier
+
+you know Robert Gordon thesis is the lwh
+
+hanging fruit has been picked some
+
+people make the you know really
+
+emphasize the regulatory bottlenecks or
+
+sort of aspect to it and some people
+
+emphasize culture or other methods how
+
+do you parse between the uh between the
+
+mechanic I think on a very fundamental
+
+level our society's ability to absorb
+
+new innovation has gone down this is why
+
+I qualified my critique of say marketing
+
+terms because I do think that that that
+
+in itself is a valid social technology
+
+to get people without a deep interest in
+
+technology learning how to apply
+
+something learning how to think about it
+
+both as an individual consumer or as a
+
+bureaucratic decision maker but sort of
+
+the gains of what we can do through
+
+basically producing highly effective
+
+highly targeted ads prop and uh word
+
+smithing ways to encourage people to use
+
+technology I think we're sort of
+
+saturated on that and that was a force
+
+that was in operation both in
+
+1924 as it is in
+
+2024 however at the same time uh things
+
+like basically government regulation in
+
+its pure form in its almost rent seeking
+
+form are much worse now than they were
+
+in
+
+1924 so we are also individually much
+
+more risk averse with regard to bodily
+
+harm if we lived in a society today of
+
+pedestrians who use smartphones and so
+
+on and someone introduced the car how
+
+many viral photos of like people
+
+suffering horribly in a car accident
+
+would it take to have the novel
+
+technology of personal vehicles banned
+
+you know high-capacity personal vehicles
+
+of course we can put a a reasonable
+
+speed limit like I don't know twice the
+
+speed of walking let's say uh those
+
+Vehicles can
+
+stay like the discourse would just be
+
+really against it I think I think we
+
+would not accept the kind of fatalities
+
+that the early Universal adoption of
+
+cars introduced so we there's a positive
+
+here perhaps we value human life more
+
+and there's a negative here we are timid
+
+and perhaps are taking tradeoffs we
+
+wouldn't endorse so uh aversion to
+
+person
+
+danger and bureaucratic overreach I
+
+think are two strong forces that are
+
+slowing us down uh and you can see this
+
+in discourse on topics like the nuclear
+
+industry or 20 years ago no one's going
+
+to convince me that the fear of genetic
+
+engineering in the use of you know in
+
+food that did not slow down progress in
+
+that field right and how about the
+
+bottleneck related to just the the cause
+
+that you mentioned earlier around energy
+
+usage if if we were able to uh to 4X or
+
+5x the the amount of energy that we use
+
+what is the reason that would enable us
+
+to do that or what's slowing us down at
+
+the moment I mean part of it is that
+
+there's been sort of a collapse in
+
+demand for certain kinds of energy right
+
+like there very few places that are
+
+doing more with it I think in terms of
+
+physics there is as we discussed on
+
+previous episodes little to stop us from
+
+scaling nuclear power actually for a
+
+much more Rich energy Society
+
+but there are deep political problems
+
+with it including the balance the
+
+balance of power internationally and
+
+specifically the balance between the
+
+superpowers or the great powers and
+
+smaller
+
+countries with regard to the green
+
+perspective I think we have gone from a
+
+sort of desire to make our civilization
+
+sustainable and harmonious with nature
+
+into a perspective where any
+
+intervention at all is bad and there's
+
+no way to satisfy that drive
+
+environmentalism with a misanthropic
+
+bent has become much too common a
+
+perspective it's an understandable one
+
+in many ways but honestly like in the
+
+1970s and 80s I think that there were
+
+many more things many diverse issues
+
+that needed to be solved and a lot of
+
+them have been solved since right right
+
+the the hole in the ozone layer is
+
+something we don't hear about much
+
+because the ozone layer has actually
+
+replenished since we stopped using one
+
+specific uh molecule right that was
+
+causing trouble when released into the
+
+atmosphere so I really think that we
+
+actually in a way have big environmental
+
+problems but they're far fewer of them
+
+than they were a while ago so the case
+
+for
+
+misanthropic environmentalism is in my
+
+opinion weaker than it's ever been
+
+before however for some reason it has
+
+more of a grasp on people it's more
+
+popular than before I think that today
+
+especially if you ask young people they
+
+feel much more pessimistic about the
+
+future of the planet but they can
+
+probably see fewer specific problems
+
+with the planet and the environment
+
+today than they could have in the 1970s
+
+or 80s right acid rain is also not a
+
+problem in most places right the noen
+
+layer as I mentioned earlier etc etc
+
+food quality and safety uh in the 70s
+
+you still had stories in uh the United
+
+States and Europe that were Chinese tier
+
+lead in baby formula right problematic
+
+including again Leed gasoline I think
+
+that was banned in the 70s if I remember
+
+correctly or phased out so actually
+
+we've cleaned up our act significantly
+
+but we feel far more doomed
+
+environmentally than ever before and I
+
+don't think it's Justified you've
+
+written two bismar briefs in the last
+
+few months around two of the most
+
+important institutions in Silicon Valley
+
+and J and Horwitz and and Y
+
+combinator maybe let's start with the Y
+
+combinator role y combinator piece where
+
+you talk about their role in the in the
+
+software slowdown well uh first off I I
+
+want to be clear here I think why
+
+combinator is amazing at incubating
+
+software companies and it's actually a
+
+form of flattery to say that you know
+
+the main problem for an organization is
+
+a macroeconomic problem because the
+
+organization itself is it means it's so
+
+big that it sort of captures at least a
+
+share of the gains of an entire industry
+
+and on the other hand it's not saying
+
+that they are causing it if anything I
+
+think YC is trying to diversify and has
+
+Diversified successfully outside of
+
+software but these bets are still
+
+relatively young and conceptually it's
+
+difficult to come up with something that
+
+is as good as an internet company
+
+because if you think about it sort of
+
+the margins of rolling out a software
+
+product to someone new so low right the
+
+margins of rolling out a Tesla to
+
+someone new the profit margins are high
+
+the costs per user are low so with the
+
+Tesla margins are are lower and the cost
+
+per user is higher you have to
+
+physically deliver a big 3 ton chunk of
+
+metal to them you have to manufacture it
+
+they have to pay for it they actually
+
+will think about that much more than
+
+clicking install uh on a new app on
+
+their phone and of course once you know
+
+the Teslas are delivered maybe you can
+
+treat the Teslas as a platform and you
+
+can roll out things like just you you
+
+pack them with cameras and then you roll
+
+out a software update that makes them
+
+fully self-driving or improves their
+
+self-driving or gives them other
+
+capacities that they previously didn't
+
+have I I think that's still viable right
+
+but I think almost all of these bets be
+
+it energy bets manufacturing bets none
+
+of them have the sort of Perfect Storm
+
+of business that software did where you
+
+have these beautiful beautiful high
+
+margins and lots of money can be made
+
+very quickly and um I think y
+
+combinator has a significant amount of
+
+knowledge transfer that it can impart on
+
+other Industries and might actually
+
+Kickstart some progress there because
+
+they have a much more in depth uh
+
+mentoring process than many other
+
+organizations right their network of
+
+alumni is also extremely strong I would
+
+say that in the United States if you
+
+have to pick being members of the
+
+Harvard Alumni network or the YC Alumni
+
+network I think you'll make more money
+
+if you're part of the YC Alumni network
+
+like on average quite a bit maybe you'll
+
+be less politically powerful but I'm
+
+sure Gary tan is working on that with
+
+his activism in local SF politics which
+
+I hope I hope he EDS but still this
+
+creation of a unique Alumni network
+
+where lots of Founders and technically
+
+minded people can talk to each other the
+
+Deep mentoring from already successful
+
+entrepreneurs and of course also like by
+
+this point software Legends like Paul
+
+Graham and Sam Altman of now of open Ai
+
+and also now of the what is it the 7
+
+trillion future manufacturing giant
+
+right yes exactly that's Irreplaceable
+
+um so really the this is this has been a
+
+foundational organization in creating
+
+the boom of the internet company I'm
+
+just saying that because of macro
+
+economic reasons uh the internet company
+
+is coming to an end and they might be
+
+other companies but their margins are
+
+going to be lower than the software
+
+companies of the last 15 and 20 years
+
+and this means that while I'm sure why
+
+combinator will continue to deliver Good
+
+Financial returns there might have to be
+
+additional considerations brought into
+
+it that previously weren't as relevant
+
+like for example I don't think you had
+
+to do that much fighting of regulators
+
+to do some of the new software stuff and
+
+because it grows so fast you could
+
+outrun uh Regulators that's the whole
+
+sort of Blitz scaling kind of logic
+
+right you get so big that it's kind of
+
+doesn't make sense to ban you right that
+
+was kind of what Uber was about as well
+
+uh where it grew very quickly and got
+
+lots of users local politic s were never
+
+interested in Banning them in favor of
+
+the taxi Union places where it was a bit
+
+slower where the taxi Union was a bit
+
+stronger well those places still don't
+
+have Uber rides right so I think that
+
+perhaps there's a missing tradition of
+
+knowledge that could be added which
+
+would be what wouldn't it be interesting
+
+if a large fund or a startup incubator
+
+like YC targeted one industry and its
+
+regulatory body and sunk I don't know
+
+let's say a billion dollars yes a
+
+billion dollars or two or three or four
+
+or five into deregulating that whole
+
+sector even though it's a non-existent
+
+sector right now I guarantee you the the
+
+force of we are writing off five billion
+
+to legalize this incumbent sector and
+
+then we're investing in 10 physical
+
+technology companies in that sector that
+
+we have just legalized I think that
+
+would be a crazy and amazing amazing
+
+thing to do and I think you would have
+
+like a 30 to 50% chance of working but
+
+uh that's such a different ethos right
+
+from the kind of like relatively almost
+
+pacifist Pro technology accelerationism
+
+take we have where we're just sort of
+
+like leave us alone and I'm like no no
+
+no everything's already locked down you
+
+kind of have to push in DC in specific
+
+targeted domains and you have to push on
+
+them before you even know that the
+
+businesses will work out I think the
+
+sort of be small and unnoticed and then
+
+be so big you can't be banned I think
+
+that just doesn't work in physical
+
+Tech which domains would you
+
+prioritize well I honestly think that
+
+there is a lot that can be
+
+done with regard to Material Science and
+
+various material
+
+regulations there is a lot that could be
+
+done with any sorts of tra restrictions
+
+for example we talked about boom and
+
+there's some other supersonic flight
+
+companies until recently there was a a
+
+ban for Overland supersonic travel right
+
+I think that a lot of the business of a
+
+supersonic company is overturning that
+
+right so there are also certain kinds of
+
+environmental restrictions where there
+
+were limits plac on you know how much
+
+energy can a dishwasher use how much
+
+energy can a car use I would go through
+
+and present clean is or clean
+
+alternatives to almost every sort of
+
+Energy Efficiency regulation and just
+
+push a little bit in the other direction
+
+pairing it with sort of a new kind of
+
+product being introduced or a certain
+
+new kind of Technology being introduced
+
+right I finally also think that there's
+
+something in the general space of
+
+basically like Aerospace Aerospace
+
+regulation but there's a lot being done
+
+there already so maybe that's too late I
+
+guess Eric if I knew all the domains
+
+maybe I wouldn't be talking about them
+
+on the show but I'd be raising the
+
+capital for this regulatory
+
+Venture it it is fascinating how in the
+
+2010s if you were in Tech or in 2000s or
+
+basically up until recently you could
+
+ignore politics you can ignore
+
+regulation you know Andre and harwitz
+
+for for many years said they don't take
+
+any political positions but as of
+
+recently in the last few months they
+
+changed their their Charter and say hey
+
+we will take political positions or
+
+donate to candidates or or get involved
+
+in in lobbying when we feel it's
+
+relevant to our companies and that's
+
+just a testament to how it's
+
+increasingly relevant to their companies
+
+to be engaged in the in the process yeah
+
+so a16z and YC I think will converge on
+
+basically a variant of this Playbook
+
+maybe they won't be that ambitious but
+
+look if we're talking about raising 7
+
+trillion
+
+for disrupting chip fabrication and
+
+disrupting the GPU Market I think very
+
+serious political efforts have not yet
+
+been undertaken and I do think it's kind
+
+of disappointing that one has to
+
+undertake a political effort to unleash
+
+production but then if we look closely
+
+at human history I don't think you ever
+
+could produce things without undertaking
+
+a political battle it's just that there
+
+were times in places where the political
+
+battle was won the last Chinese Empress
+
+when given a demonstration of a railroad
+
+built in China basically just banned the
+
+construction of railroads in China on
+
+the theory that China doesn't need them
+
+and that in fact it would be disruptive
+
+for social order in Britain no such ban
+
+occurred in the 19th century though
+
+there were members of parliament who
+
+were quite opposed to it and quite
+
+opposed to rail travel when we think of
+
+these golden lass Fair periods I think
+
+we should actually think of them as the
+
+aftermath of a political battle one not
+
+that there was ever a period where
+
+politics was absent so I think what
+
+happened in the United States in the
+
+1990s was a political fight related to
+
+personal Computing was one and the
+
+government was convinced that it was a
+
+good idea right the information Super
+
+Highway started as a as a literal
+
+political slogan like a politician
+
+slogan I don't even remember which
+
+politician was I think it was in the
+
+Clinton Administration uh I don't think
+
+it was Clinton himself though he made
+
+use of it and then as an Afterglow of
+
+this Universal distribution first of
+
+physical computers and then smartphones
+
+we had this uh happy period but there
+
+were fights there were fights I want to
+
+be mindful of uh time is there anything
+
+else either on a16z or uh or YC or
+
+Silicon Valley culture or the tchas tech
+
+nation that we uh we should leave our
+
+audience with I think that uh software
+
+needs to be applied much more to the
+
+process of manufacturing and that is a
+
+fundamentally different set of
+
+businesses and different set of
+
+Economics than consumer facing products
+
+um I think that it's been the case so
+
+far that we have uh enabled devices and
+
+given them functionalities they
+
+sometimes don't need but really we
+
+should be gathering much more
+
+information on the the factory floor of
+
+practically anything and then seeing
+
+what computers can do with that I think
+
+companies actually have very little
+
+capability to reduce the complexity of
+
+their own operations almost everything
+
+worth buying from a car to your
+
+smartphone is very complex and is built
+
+by a thousand machines each even more
+
+complex the industrial World Remains
+
+unoptimized the software gains of
+
+getting everyone to use spreadsheets and
+
+email have ended the software gains of
+
+literally putting a camera in a factory
+
+or 5,000 cameras in a factory and trying
+
+to do basically Big Data analysis on how
+
+that factory Works which is secretly the
+
+most complex machine right factories are
+
+today can be thought of as the world's
+
+most complicated production machines I
+
+think those gains we've barely scratched
+
+to surface that's a great note to to end
+
+on SEO thanks for for coming on as
+
+always we'll link to the bismar briefs
+
+in the in the the bio of this episode
+
+and uh as always until next time thank
+
+you
+
+Eric thanks for listening to Live
+
+players Please Subscribe leave a review
+
+and check out s's excellent newsletter
+
+the Bismark brief for more rigorous
+
+analysis of key individuals institutions
+
+or Industries Live players is a
+
+production of turpentine the podcast
+
+Network behind econ 102 with Noah Smith
+
+and Moment of
+
+Zen
+

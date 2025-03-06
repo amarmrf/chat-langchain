@@ -28,7 +28,9 @@ import { Source } from "./SourceBubble";
 import { apiBaseUrl } from "../utils/constants";
 
 const MODEL_TYPES = [
+  "openai_gpt_3_5_turbo",
   "openai_gpt_4o_mini",
+  "anthropic_claude_3_haiku",
   "anthropic_claude_3_5_haiku",
   "google_gemini_pro",
   "fireworks_mixtral",
@@ -220,7 +222,7 @@ export function ChatWindow(props: { conversationId: string }) {
           mb={1}
           color={"white"}
         >
-          Chat LangChain 🦜🔗
+          Cultural Research Assistant 📚
         </Heading>
         {messages.length > 0 ? (
           <Heading fontSize="md" fontWeight={"normal"} mb={1} color={"white"}>
@@ -234,10 +236,7 @@ export function ChatWindow(props: { conversationId: string }) {
             marginTop={"10px"}
             textAlign={"center"}
           >
-            Ask me anything about LangChain&apos;s{" "}
-            <Link href="https://python.langchain.com/" color={"blue.200"}>
-              Python documentation!
-            </Link>
+            Ask me anything about the Culture based on our research lectures transcripts!
           </Heading>
         )}
         <div className="text-white flex flex-wrap items-center mt-4">
@@ -254,7 +253,9 @@ export function ChatWindow(props: { conversationId: string }) {
                 }}
                 width={"240px"}
               >
+                <option value="openai_gpt_3_5_turbo">GPT-3.5-Turbo</option>
                 <option value="openai_gpt_4o_mini">GPT-4o Mini</option>
+                <option value="anthropic_claude_3_haiku">Claude 3 Haiku</option>
                 <option value="anthropic_claude_3_5_haiku">Claude 3.5 Haiku</option>
                 <option value="google_gemini_pro">Google Gemini Pro</option>
                 <option value="fireworks_mixtral">
@@ -277,7 +278,7 @@ export function ChatWindow(props: { conversationId: string }) {
               <ChatMessageBubble
                 key={m.id}
                 message={{ ...m }}
-                aiEmoji="🦜"
+                aiEmoji="📚"
                 isMostRecent={index === 0}
                 messageCompleted={!isLoading}
               ></ChatMessageBubble>
@@ -291,7 +292,7 @@ export function ChatWindow(props: { conversationId: string }) {
           value={input}
           maxRows={5}
           marginRight={"56px"}
-          placeholder="What does RunnablePassthrough.assign() do?"
+          placeholder="What does the Culture say about the purpose of life?"
           textColor={"white"}
           borderColor={"rgb(58, 58, 61)"}
           onChange={(e) => setInput(e.target.value)}
@@ -323,12 +324,11 @@ export function ChatWindow(props: { conversationId: string }) {
       {messages.length === 0 ? (
         <footer className="flex justify-center absolute bottom-8">
           <a
-            href="https://github.com/langchain-ai/chat-langchain"
+            href="#"
             target="_blank"
             className="text-white flex items-center"
           >
-            <img src="/images/github-mark.svg" className="h-4 mr-1" />
-            <span>View Source</span>
+            <span>Cultural Research</span>
           </a>
         </footer>
       ) : (

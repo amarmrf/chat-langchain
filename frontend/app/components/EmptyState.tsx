@@ -31,7 +31,7 @@ export function EmptyState(props: { onChoice: (question: string) => any }) {
               color={"gray.200"}
               textAlign={"center"}
             >
-              How do I use a RecursiveUrlLoader to load content from a page?
+              What does the Culture say about the purpose of life?
             </Heading>
           </CardHeader>
         </Card>
@@ -52,7 +52,7 @@ export function EmptyState(props: { onChoice: (question: string) => any }) {
               color={"gray.200"}
               textAlign={"center"}
             >
-              What does RunnablePassthrough.assign() do?
+              Who is Samo Burja and what are his ideas?
             </Heading>
           </CardHeader>
         </Card>
@@ -74,7 +74,7 @@ export function EmptyState(props: { onChoice: (question: string) => any }) {
               color={"gray.200"}
               textAlign={"center"}
             >
-              Explain multi-vector retrieval and how it can improve results.
+              What does the Culture say about free will?
             </Heading>
           </CardHeader>
         </Card>
@@ -95,7 +95,7 @@ export function EmptyState(props: { onChoice: (question: string) => any }) {
               color={"gray.200"}
               textAlign={"center"}
             >
-              How do I run a model locally on my laptop with Ollama?
+              Tell me about the Great Founder Theory.
             </Heading>
           </CardHeader>
         </Card>

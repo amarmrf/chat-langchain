@@ -1,0 +1,3876 @@
+Welcome To Live players where political
+
+scientists and strategists Sam o bua and
+
+I discuss the key individuals with the
+
+power to alter our current Society every
+
+week we provide analysis of the news and
+
+case studies of Live players as well as
+
+key institutions and technologies that
+
+make up the global power landscape let's
+
+dive
+
+in in today's episode we're featuring a
+
+conversation between Sam o bua and
+
+Nathan leben from the cognitive
+
+Revolution podcast another podcast from
+
+turpentine the network behind Live
+
+players they discuss the intersection of
+
+AI and geopolitics please enjoy the
+
+episode Sam OA founder of Bismark
+
+analysis welcome great to be
+
+here so you are known for your strategic
+
+analysis and for your super Crystal
+
+Clear monologues I'm a active listener
+
+to to your show that you do with Eric
+
+Live players and definitely recommend
+
+folks check that out for in-depth
+
+analysis of many of the nation state
+
+level Live players obviously one of the
+
+hottest topics in the world today and
+
+one that is gradually infusing all of
+
+geopolitics is AI That's um you know
+
+many dimensional topic but I wanted to
+
+start off before we go deeper into
+
+different Live players and what their
+
+you know interests and positions and
+
+strategies are likely to be just with a
+
+little bit of context on kind of your AI
+
+worldview I find that many conversations
+
+fork early on questions of just like
+
+what do you actually expect to happen do
+
+you think that AI is going to get super
+
+powerful or you know not so much and
+
+we'll leave any debate of that topic for
+
+another time but I just wanted to at
+
+least give people a sense for kind of
+
+what your outlook is so that they can
+
+you know better contextualize the rest
+
+of your analysis I think that artificial
+
+intelligence is a fascinating test for
+
+people it really whenever you talk about
+
+artificial intelligence you end up
+
+having to look at basically all of the
+
+world models that one has you have to
+
+employ them you have to reconsider them
+
+you have to check which assumptions hold
+
+and which assumptions should be dropped
+
+I think it's uh fascinating how much
+
+people's expectations of the future of
+
+AI reflect their General thinking on
+
+technology or even their General think
+
+on what is a mind and ultimately what
+
+human beings are and what is special
+
+about human beings you might have people
+
+who greatly Focus say on the lack of
+
+agency that the current AI models
+
+display right you might say that
+
+actually that rather than intelligence
+
+is the most valuable thing and then
+
+others would brush that aside and say
+
+you know all you really need is a for
+
+loop on you know already the generative
+
+intelligence first off that's shown to
+
+be not quite true but it is a
+
+fundamental question of whether
+
+something much a very different process
+
+would be needed to produce a gentic AI
+
+or whether it's just a small tweak that
+
+we're going to get through through the
+
+normal application of generative AI so
+
+first to get it out of the way I think
+
+there's been real scientific progress in
+
+the early 2000s on just the computer
+
+science of artificial intelligence the
+
+term AI scientist did actually make
+
+sense then it still sort of makes sense
+
+I think since the last four or five
+
+years there have been new breakthroughs
+
+as the larger and larger models have
+
+been trained however to a great extent
+
+we're merely applying these theoretical
+
+insights from the early 2000s that's why
+
+there is a lot of disputation as to who
+
+ultimately should properly be credited
+
+for the so-called Transformer
+
+architecture that is now used to
+
+basically generate most of the tax
+
+that's behind LMS llm is in a way a much
+
+less descriptive marker right it's a
+
+marker for an application rather than
+
+the technology itself it's like talking
+
+about a car when of course there could
+
+be an internal combustion engine inside
+
+the car or there could be an electric
+
+motor I'm certain that now that there is
+
+demand for basically generation of text
+
+with comes with generation of knowledge
+
+that there will be architectural
+
+revolutions that will optimize for it
+
+even further than what Transformers have
+
+done so I do expect some continued
+
+progress in sort of the science of
+
+artificial intelligence that is the
+
+theoretical side the architecture side
+
+and the discovery of what do larger and
+
+larger in different kinds of data sets
+
+do we are in a way discovering it we
+
+don't have strong theory behind what's
+
+happening that's an an important thing
+
+that has to be stated this is not
+
+similar to
+
+the development process of say
+
+supersonic flight where let's say 80 to
+
+90% of the science is just resolved we
+
+have our models of physics it's not
+
+pushing physics that much forward except
+
+maybe some details of fluid dynamics
+
+which are chaotic we're just doing
+
+engineering on the basis of a theory
+
+here the engineering has outpaced the
+
+theory long ago and we are continually
+
+surprised by what are essentially not
+
+just business Ventures they're not just
+
+launching an app a training run is
+
+actually an experiment I think we should
+
+think of it as if we've built dozens of
+
+Large Hadron colliders around the world
+
+you know the scientific experiment on
+
+the border between Switzerland and
+
+France at CERN where they accelerate
+
+particles at Great cost now we're kind
+
+of living in this world where you know
+
+hundred billion dollar valuations have
+
+become boring for some of these new
+
+software companies or no one's that
+
+excited they're interested when yet
+
+another AI scientist goes off to fund
+
+their own lab but that seems like table
+
+Stakes now so these very very large
+
+training runs are legitimate in my
+
+opinion scientific experiments they're
+
+not just normal technological
+
+development now why did I talk so much
+
+about sort of the epistemology of this
+
+well I think we have to be extremely
+
+cautious when making predictions
+
+I don't think this is actually like
+
+Moore's Law at all I think that we are
+
+continually surprised by what these
+
+systems do and do not do there've been
+
+already so many deviations from the
+
+so-called scaling laws that I think we
+
+have to admit that that was perhaps not
+
+quite the correct hypothesis right to
+
+give an example already we're not seeing
+
+huge improvements in output for
+
+improvements in compute but we're
+
+suddenly finding ways to reduce the
+
+amount of compute to get the outputs
+
+that we already had so in a way AI is
+
+becoming more compute efficient that's
+
+not what people were predicting six
+
+months ago that's not what people were
+
+predicting experts by the way or at
+
+least entrepreneurs let's say if we make
+
+a distinction between expert and
+
+entrepreneur 18 months ago so truly I
+
+think we do not understand the
+
+fundamental science of any of this and
+
+I've tried you know my own thinking my
+
+research both for personal interest and
+
+in a professional sense deeply
+
+interviewing uh the best AI scientists I
+
+could find and they have no consensus
+
+they have no consensus with each other
+
+so I think the enthusiasm over scaling
+
+laws was trying to invoke something like
+
+oh we kind of understand the physics of
+
+semiconductors so it's only a matter of
+
+Mo's law is kind of like Intel's
+
+business plan right and it's an economic
+
+and social and technological law but
+
+here we could encounter scientific
+
+barriers at any point so you know there
+
+is no guarantee that simply throwing
+
+more compute will continue to work we
+
+can expect more and more compute to be
+
+available but perhaps as soon as there's
+
+enough data on what these training runs
+
+are doing there will be some sort of
+
+scientific understanding of what this is
+
+and I think that you know in computer
+
+science there's always been this
+
+interesting question of how much useful
+
+computer science is there actually and
+
+how much is it just engineering and just
+
+application of the computer science to
+
+new and new problems here we have an
+
+openwide field of computer science so
+
+this leads me sort of to the second
+
+Point why is it important to carefully
+
+think about the theoretical underpinning
+
+not just the empirical outcome of AI
+
+well this is my theory of progress
+
+I would literally not even track who has
+
+the most Compu I think that's important
+
+to know you should have a little chart a
+
+little table with the best information
+
+you can find you need to update it not
+
+quite quarterly but you need to update
+
+it every six months because it changes
+
+pretty fundamentally and people are
+
+going in depth trying to find all of the
+
+compute they can all of the gpus that
+
+they can they're trying to strike deals
+
+favorite ISM all this corporate politics
+
+stuff super interesting yet the at the
+
+end of the day I'm not going to bet on
+
+the company that has raised most money
+
+to have the most compute I'm going to
+
+bet on the company that has the best AI
+
+scientists right so Demis hasab for
+
+example at the end of the day when you
+
+read what he writes when you look at
+
+what he says he ultimately he wants to
+
+answer questions about the nature of
+
+intelligence
+
+Ilia suar he almost has this like
+
+religious about him when he talks about
+
+the models because to him this is about
+
+the beauty of the universe this is about
+
+the beauty of intelligence right this is
+
+about the discovery of it and I think
+
+when you hear scientists talk this way
+
+about their craft about their field you
+
+realize that they have a very deep
+
+motivation now this motivation might be
+
+assisted by a financial motive a
+
+profit-making motive but let's put it
+
+this way if I see an AI company where
+
+everyone is just trying to make money
+
+and you know it is possible to make
+
+money with AI it's harder than people
+
+might think by the way most of the a
+
+companies are clearly losing a lot of
+
+money very quickly so I expect most of
+
+these to fold within the next few years
+
+with the Giants remaining because the
+
+Giants just have way more Capital to
+
+throw around like whoever's working with
+
+Amazon whoever's working with Microsoft
+
+and of course Google itself they're not
+
+to run out of money right they're
+
+basically like Saudi Arabia you know
+
+Saudi Arabia can build a line in the
+
+desert right that giant skyscraper that
+
+just goes through the desert this fonic
+
+gesture well Google can build like
+
+pyramids of compute and it would still
+
+be among the most profitable companies
+
+in the world Microsoft can build great
+
+cigarettes of compute and they would
+
+still be a very successful company so
+
+that's important to keep in mind who has
+
+money to burn but merely having money to
+
+burn does not produce the breakthroughs
+
+the breakthroughs will be actually from
+
+who has the best AI scientists and I do
+
+mean scientists I do not mean software
+
+Engineers I don't mean data scientists I
+
+mean people who you can figure out have
+
+both an intellectual Excellence an
+
+in-depth passion and are not easily
+
+confused by marketing or social pressure
+
+there it has been in Western
+
+civilization a fundamental tension
+
+between science engineering and commerce
+
+the commercial mindset always involves
+
+talking up the current business plan
+
+talking up the current approach to
+
+things science involves undermining it
+
+right science involves questioning the
+
+current approach science involves
+
+disproving the current approach so you
+
+can see how in a corporate culture these
+
+two can be intention and most people
+
+also very intelligent people
+
+if they go to Elite universities by
+
+default they're trained in agreeability
+
+the purpose of the educational system is
+
+to train you up in agreeability we
+
+basically destroyed the Prussian Science
+
+University it took a century for the
+
+destruction to happen but when we made
+
+the Prussian research University model
+
+when it was adapted adopted in the
+
+United States and adapted to scale to
+
+most of the population it obviously can
+
+scale so something that was designed to
+
+sort of protect your PhD artists ended
+
+up being a degree Mill and ended up
+
+being a necessary career step not just
+
+here but back in Germany and in the
+
+United Kingdom and in France and
+
+actually now more and more so in China
+
+if the talent distribution mechanism of
+
+your Society is the same thing as the
+
+scientific mechanism of your society
+
+that is also a contradiction and that is
+
+a fundamental problem of Western
+
+Civilization we do do not know what to
+
+replace universities with so why am I
+
+talking about universities in the
+
+context of AI like I said AI is a good
+
+test you have to go deep so many of
+
+these top AI scientists were poached
+
+from universities that had good computer
+
+science departments but these weren't
+
+even firste universities can you name a
+
+brilliant AI scientist from
+
+Harvard has background did a PhD there
+
+or something it's kind of interesting
+
+you see that Canadian universities punch
+
+above their weight MIT well that's
+
+pretty predictable British universities
+
+French universities for some reason
+
+French mathematicians seem to have a
+
+neck for it anyone who is trained in the
+
+former Soviet Union for some reason you
+
+know and by the way that's not
+
+surprising a lot of the mathematics
+
+underpinning modern models was actually
+
+developed in a compute starved
+
+environment as academic Hobbies for
+
+mathematicians who are kind of trying to
+
+cope with the lack of good computers and
+
+trying to figure out new and more
+
+efficient ways to do things and working
+
+things out on paper rather than on huge
+
+training runs now that tradition has
+
+developed immensely in the 1990s and the
+
+2000s after the fall of the Soviet Union
+
+but it's notable that a lot of these
+
+like academic lineages go back there so
+
+after the launch of chat PT I think we
+
+have stripped mind Academia for all the
+
+good AI
+
+scientists I don't think you have any
+
+truly
+
+knowledgeable questioners of the nature
+
+of the universe of the ilas verer left I
+
+think they've all been strip minded
+
+there was just too much money there are
+
+mathematicians who for ideological
+
+reasons were not inherently interested
+
+in AI but were scared of AI by basically
+
+alzar owski and basically things around
+
+that arguably teren to is in that
+
+category to some extent and those
+
+mathematicians I think will make modest
+
+or decent progress because ultimately if
+
+you have a holy Terror of AI which
+
+causes you to change your mathematics
+
+what you apply your mathematical
+
+expertise to I think it can make you a
+
+very good engineer but it makes you like
+
+kind of a mid scientist I think the
+
+Curiosity not the terror is the actual
+
+underlying deep motivation which causes
+
+these like very uh flawed human brains
+
+prone to various interesting cognitive
+
+flaws like wishful thinking and so on to
+
+actually end up locking on to truth this
+
+means that if someone wanted to they
+
+could compile a list of all the AI
+
+scientists that are likely to be
+
+Paradigm Breakers you wouldn't get 100%
+
+of them you could probably get 90% of
+
+them and you can chart which company has
+
+the most and at the end of the day you
+
+can chart which company is likely to not
+
+be constrained by needing to develop a
+
+product let's remember that this
+
+breakthrough of application of chat GPT
+
+came out of a company that people used
+
+to make fun of for releasing white
+
+papers instead of products like this is
+
+important to remember before its memory
+
+hold that open AI you know it wasn't
+
+just a corporate drama that came out of
+
+structuring it as a nonprofit they
+
+basically gave the best ai ai
+
+researchers they could find tenure like
+
+they basically were just publishing
+
+white papers and they were working very
+
+hard and they were motivated by this
+
+Vision that AI will transform the world
+
+they were recruited by literally Sam
+
+Altman and literally Elon Musk working
+
+together like that's in the prehistory
+
+including things like giving Tesla gifts
+
+to the early employees to encourage them
+
+right to go do that
+
+and I think that cannot be recreated in
+
+the current environment so it's sort of
+
+decaying right and if you look at the
+
+key people like Dario M and like Ilia
+
+sitk and you know maybe others in the
+
+future this dream team has sort of split
+
+apart now I think they have likely
+
+trained up significant human capital so
+
+anyone who was working with them in that
+
+initial period before the entire planet
+
+decided open AI was a huge success those
+
+people if they were AI scientists not
+
+software Engineers I think they're
+
+underrated and I think people should be
+
+trying to poach those because you know
+
+like I said Academia is strip mind which
+
+places we're still producing and
+
+training people in the scientific
+
+mindset rather than an entrepreneurial
+
+mindset a hype mindset hey everybody
+
+Eric here with a word from our
+
+sponsors the tech World Turns to the
+
+brave browser for its unbeatable privacy
+
+protections but did you know that brave
+
+also has a private ad platform Brave ads
+
+offers first-party targeting and it's
+
+been Cookie list since day one so you
+
+can relax while thirdparty tracking
+
+cookies disappear from the web today
+
+millions of people turn to ad blockers
+
+to avoid being tracked and pestered
+
+online the Brave's new ad model aligns
+
+incentives for users and advertisers
+
+users earn rewards for viewing ads which
+
+they can save spend or pass along to
+
+their favorite creators an advertisers
+
+score points for respecting user privacy
+
+generating Roi without invasive tracking
+
+so whether it's high impact
+
+announcements on the new tab page or
+
+keyword targeted ads in Brave search
+
+Brave search offers diverse private
+
+futureproof ad formats for all your
+
+business goals join the future of
+
+advertising at brave.com
+
+ads mention turpentine to get 25% off
+
+your first
+
+[Music]
+
+campaign let's be real like I I feel
+
+like generative AI is now as much of a
+
+buzzword as web 3 ever was it's web 4
+
+basically right it's like what is
+
+supposed to save the balance sheets of
+
+all the investors and all the major
+
+corporations and actually Black Rock and
+
+when you add it all together you know
+
+really the US has no plan for solvency
+
+except for an AI uh Revolution right
+
+like that's the only way in which the
+
+Western World can achieve collectively
+
+four or 5% economic growth per year now
+
+of course if AI worked in this promised
+
+way we wouldn't have four or 5% a year
+
+we might have like 10% growth a year or
+
+20% growth a year truly
+
+singularitarianism
+
+don't think we are focusing enough on
+
+the science of artificial intelligence
+
+and asking the deepest questions and um
+
+investing in the most esoteric
+
+mathematics one way to put it is that
+
+imagine a world where it is easy to
+
+raise money to build particle
+
+accelerators and employ experimental
+
+physicists but it is difficult to employ
+
+and protect for longer periods of
+
+intellectual development theoretical
+
+physicists that is a world where we
+
+would hit a wall in physics very quickly
+
+and I think artificial intelligence it's
+
+much closer to physics than it is to I
+
+don't know fintech or Moors law or
+
+something like this so that's my sort of
+
+contrarian thesis we've undervalued AI
+
+science we've overvalued AI compute we
+
+overvalue raising huge amounts of money
+
+to like quickly enter the AI race and
+
+undervalued longer term plays to
+
+cultivate top AI talent that is
+
+intrinsically motivated by their
+
+curiosity to push forward this Frontier
+
+of understanding and I think it's just
+
+because a single AI product went viral
+
+and here's the spiciest take I have my
+
+spiciest take had open AI not gotten
+
+chat GPT had chat GPT not been viral for
+
+whatever reason probably two or three ux
+
+decisions could have killed it to be
+
+honest it would have enthused experts
+
+and some top programmers but the general
+
+public would ignore it I think we'd
+
+actually be making more theoretical
+
+progress because the Dream Team would
+
+still be together and the intent would
+
+still be on the white papers ironically
+
+you should interrogate these five or six
+
+heresies because I don't think anyone
+
+talks about it this way I've been like
+
+surveying the entire discourse landscape
+
+and I see very few people arguing these
+
+points so I'm happy to be challenged on
+
+them yeah I think there's you've touched
+
+on like 10 different things that could
+
+could be full discussions unto
+
+themselves some of the ones that I think
+
+I agree with assuming I'm interpreting
+
+you correctly I always say the
+
+Transformer is not the end of History
+
+yes and it's important to remember that
+
+you know we've had for much of our Lives
+
+the sort of end of History Vibe and
+
+obviously we're now shaken out of that I
+
+think the AI Community maybe not the top
+
+thinkers you know not the the top
+
+scientists that you're talking about but
+
+the community at large has experienced a
+
+somewhat similar thing where there's
+
+been this sort of well we just scale up
+
+the Transformer and we'll keep doing
+
+that forever and that will deliver you
+
+know the sort of transformative outcome
+
+and I personally don't rule that out but
+
+I expect that there will be more
+
+theoretical and like we'll probably
+
+never find out because I think we will
+
+see more theoretical advances that will
+
+mean we're never going to run the
+
+trillion dollar Transformer experiment
+
+because there will just be other things
+
+that will be sort of better it's good to
+
+remember that diffusion models are
+
+what's generating all the images it's
+
+not
+
+Transformers so what is it if
+
+Transformers are fully general
+
+intelligence in the Bedrock of it why
+
+are they so much worse to generating
+
+images than diffusion I think that we
+
+are seeing the Cambrian explosion of the
+
+different definitions of intelligence
+
+right the Cambrian explosion with this
+
+event on prehistoric Earth hundreds of
+
+millions of years ago where suddenly
+
+there was a vast diversity of
+
+multicellular life that came to be it's
+
+like visible in the fossil record I
+
+think for most of our history we have
+
+had only human and animal intelligence
+
+and we added a tiny bit of computer
+
+intelligence which I think is different
+
+in kind than human and animal
+
+intelligence and now we have added even
+
+more forms of computer intelligence
+
+right I think that already the turing
+
+machine was already a form of artificial
+
+intelligence I think we're eventually
+
+going to have a periodic table of
+
+elements of different things that can be
+
+called intelligence that are
+
+fundamentally different processes so I
+
+think we'll have
+
+qualitatively different processes that
+
+can produce outputs that we would call
+
+intelligence but they will be
+
+fundamentally different processes with
+
+different properties different strengths
+
+different weaknesses and I think that
+
+will be surprising to us because we're
+
+used to thinking of intelligence as a
+
+single thing because the evidence is
+
+pretty strong in human beings when you
+
+do psychometrics and cognitive science
+
+that humans are just kind of doing one
+
+thing super special but you know maybe
+
+the universe doesn't work that way right
+
+maybe human intelligence was like the
+
+hydrogen atom the first atom that comes
+
+into existence in the universe but then
+
+very quickly the Stars start making
+
+helium and iron and then the Supernova
+
+start making uranium and all these
+
+heavier elements that near Star Fusion
+
+can produce so I really do think that we
+
+are going to be continuously surprised
+
+at the strength un reasonable
+
+effectiveness of various forms of
+
+intelligence as we discover them but
+
+also surprised and shocked by their
+
+weakness right why do AI agents when you
+
+put generative AI when you put
+
+Transformers on a loop why do they melt
+
+down into incoherence and don't pursue
+
+goals and cannot actuate and cannot act
+
+on the world like that's a surprising
+
+thing I don't think people expected that
+
+if you told someone 20 or 30 years the
+
+kind of verbal Behavior this
+
+intelligence is capable of they would
+
+assume it's trivial to use the words to
+
+command a robot and have the robot do
+
+things right I think they would assume
+
+it's trivial but it turns out it's not
+
+or they would assume it's trivial to
+
+have a representative wasn't that the
+
+thesis of like a 100 startups 5 minutes
+
+after chat PT came out the personal
+
+assistant and they're just not you know
+
+you can use them but you can use them
+
+the way you can use a calendly link you
+
+can't use them the way you can work with
+
+an executive assistant a human executive
+
+assistant I really agree with and I
+
+think you're sharp to emphasize I use
+
+the term cambri explosion sometimes as
+
+well I also have started to use the term
+
+mixture of architectures era to Signal
+
+sort of the end of the Transformers era
+
+and the beginning and I think we're just
+
+very much still in the beginning but yes
+
+you know folks who listen to my feed you
+
+know know that I have an obsession with
+
+State space models and the big reason
+
+for that is that I see it as one of the
+
+first new core mechanisms that performs
+
+basically on par with the attention
+
+mechanism but notably as you said does
+
+have different strengths and weaknesses
+
+which you sort of have to drill down to
+
+a very small level to really distinguish
+
+it's quite interesting that at the high
+
+level when they train like a state space
+
+model versus a Transformer model at
+
+scale they look pretty similar like
+
+qualitatively you can chat with them
+
+they seem to have reasonable memory when
+
+you drill down into the micro skills you
+
+find that there are kind of two sides of
+
+a coin sort of different strengths and
+
+weaknesses and not surprisingly based on
+
+that some of the most exciting new
+
+things coming out these days are hybrid
+
+structures where you have an integration
+
+of these things when I just think about
+
+and I'm no expert in Neuroscience but
+
+when I just look at sort of a picture of
+
+a brain in an anatomy textbook I sure
+
+think you know yes there's like some
+
+parts of this that are kind of Highly
+
+repeated get your kind of cortical
+
+column that's like definitely a main
+
+piece that is repeated a lot and doing a
+
+lot of work you also see just a lot of
+
+other parts and so it does seem like
+
+we're headed for I think a periodic
+
+table is a pretty good mental model for
+
+it we'll have a lot of these different
+
+specialized you know not even full
+
+architectures but components that you
+
+can kind of snap together in in all
+
+sorts of different ways going back to
+
+just the sort of how you know let's say
+
+Eric always asks questions in this way
+
+so I'll do the same if you're advising a
+
+national government you know president
+
+Harris comes to you and says okay you
+
+know a lot of hype out there obviously
+
+though a lot of undeniable progress too
+
+how should I think about how extreme
+
+things could be like I hear you that the
+
+agents aren't quite ready and that like
+
+GPT 4 was still kind of a slog to
+
+implement and probably is not going to
+
+be
+
+transformative but there's a lot of Buzz
+
+about a possible gp5 and the GPT 6
+
+behind that how would you kind of
+
+characterize you know for somebody that
+
+doesn't have time to get into the sence
+
+like what the sort of range of plausible
+
+outcomes might be or like what they need
+
+to be prepared for well I think the
+
+possibility of a compute race should be
+
+kept in mind but a compute race is not a
+
+software company race it is a hardware
+
+race so if you want to preserve the US
+
+capacity to engage in a hardware race I
+
+would advise the president and
+
+especially you know in an ironic twist
+
+maybe former president Trump has already
+
+received this advice because recently he
+
+went on air saying oh we're going to
+
+need to double the energy supply for
+
+compute I'm like wait where did you get
+
+that talking point I don't think he read
+
+about it I don't think he asked CHD
+
+someone who kind of knows what they're
+
+talking about must have spoken to him so
+
+I would say to president Harris if
+
+Kamala becomes president haris I would
+
+say that you will have to pursue an
+
+industrial policy on semiconductors and
+
+an industrial policy on energy and the
+
+thing that my libertarian friends will
+
+most disagree with me I'll just say it
+
+will require government action not just
+
+the government getting out of the way
+
+but the government buying compute in
+
+America even
+
+tsmc cannot run a chip Fab in America
+
+and have it be as profitable no matter
+
+what they do the unit costs are 50%
+
+higher like Morris is on record for
+
+having said that so if tsmc can't do
+
+that how could Intel and if we're doing
+
+free trade even with our allies this
+
+means the second largest chip Fab might
+
+be in America but not the largest the
+
+free market will not provide so I think
+
+the answer has to be something extremely
+
+politically difficult I think we need to
+
+create a new Silicon Valley let's
+
+remember Silicon Valley originally meant
+
+silicon right it meant Hardware right
+
+when I saw you know there's a wired
+
+article a few years ago it was titled
+
+Shenzhen is the Silicon Valley of
+
+Hardware I was like I I felt my hard
+
+drop I was like oh no oh no the valley
+
+has no idea how much trouble they're in
+
+and my friends at the time made fun of
+
+me because I was saying no no you don't
+
+understand if they dominate Hardware so
+
+thoroughly they will easily reverse
+
+engineer software too and they're going
+
+to have their own unicorns and they're
+
+going to have their own soft software
+
+Giants Well my friends don't find it so
+
+strange my clients don't find it so
+
+strange either now that we are
+
+discussing whether to ban Tik Tok right
+
+like obviously China can build software
+
+startups now no one's wondering that
+
+obviously Buu is honestly it is about as
+
+good as Google actually they're like
+
+keeping Pace not just with the stuff we
+
+did three or four years ago they're
+
+keeping Pace with things like
+
+self-driving cars and driving their own
+
+progress just as fast so really the hard
+
+Hardware thing is going to be difficult
+
+it's going to be difficult because you
+
+won't be able to do it like NASA the
+
+political economy of NASA is that NASA
+
+has to do something in all 50 states
+
+because otherwise it can't protect its
+
+budget it has to give something to every
+
+single state or states will go against
+
+it however that's not a good way to
+
+build Rockets right SpaceX doesn't have
+
+to have a facility in all 50 states
+
+right spacex's biggest client of course
+
+you know I think it Remains the
+
+government though starlink is genuinely
+
+going to be a very different model but I
+
+think there has to be a move to do the
+
+politically difficult thing of
+
+designating a Zone probably a port city
+
+and it doesn't have to be by the way the
+
+Bay Area maybe California is actually
+
+difficult to deal with and you want to
+
+do it in a different state but has to be
+
+a federal
+
+designation get every single regulation
+
+out of the way you know the Arizona
+
+plant and the delays there you've heard
+
+of that I've heard a bit about it for
+
+sure I know the daycare requirements and
+
+so on and so forth yeah so much of it is
+
+stuff that has nothing to do with
+
+manufacturing the chips it's literally
+
+like how do we comply with the building
+
+codes I'm like well what if we didn't
+
+worry about the building codes and just
+
+build the chip Fab as soon as possible
+
+Right it would take that kind of
+
+mentality where you create an American
+
+special economic zone and you demand you
+
+buy a lot of compute there honestly
+
+given the density of data centers in
+
+Virginia heck maybe you do it in
+
+Virginia maybe you go retro you put it
+
+on the East Coast I'm not sure if
+
+Virginia would play nice with that but
+
+maybe it would maybe the federal
+
+government Partners up with that one
+
+individual State and then we build full
+
+stack somewhat subsidized somewhat
+
+expensive chip Fab set up there and then
+
+we have the capacity to win a hardware
+
+race let's be real we shouldn't be
+
+seeking a hardware race with China
+
+because we'll lose it if it was actually
+
+an existential military exercise China
+
+can destroy Taiwan it doesn't need to
+
+take Taiwan it can destroy Taiwan and
+
+can make it hell to get ships out of
+
+there with chips and what are you going
+
+to do then are you going to invade the
+
+Chinese Mainland like what the hell like
+
+are you going to Nuke China if you do
+
+that China's going to Nuke you right
+
+back the people who are calling you know
+
+shout out to leopo right like the people
+
+who are calling for this like massive
+
+buildup I'm like no no buddy we we have
+
+to be much slower with this if America
+
+wants to win an industrial race it just
+
+needs some industry first and America's
+
+industry is like it's pretty good but
+
+the fact that you know let's put this
+
+way America is not the industrial peer
+
+of China it is the industrial peer of
+
+Germany so every single thing you can
+
+say about the German economy and how it
+
+sucks and how they've been
+
+de-industrializing well guess what we
+
+can say that about American industry
+
+it's just that America is not just a
+
+Germany it also has like a giant
+
+software sector it has Finance it has
+
+service sector all of this other stuff
+
+that Germany has less of uh so we
+
+sometimes forget that you know when we
+
+look at these GDP numbers it's not
+
+really American manufacturing driving
+
+those and American manufacturing does
+
+not outperform Dutch or German or South
+
+Korean or Japanese manufacturing that's
+
+why asml is in the Netherlands okay uh
+
+that's why Samsung is like a Korean
+
+company not an American company so
+
+that's what has to be dealt with so
+
+because of that I actually think it's a
+
+hopeful message geopolitically that this
+
+might be yet a scientific race however
+
+I'm sure that if the intelligence
+
+explosion theories are correct that
+
+there's like a key event after which
+
+there's a beautiful feedback loop that
+
+then results in uh kind of a single
+
+Singleton style future where whoever
+
+starts this will just be so far ahead
+
+exponentially every few years they'll be
+
+hopeless to catch up we we have to
+
+preserve industrial capacity for that
+
+era because at the end of the day it's
+
+not like it's easy to coordinate allies
+
+so even friend Shoring does not fully
+
+work and you know I'm not sure which
+
+President has the capital the political
+
+Capital to push for a functional
+
+industrial policy rather than like a
+
+pretend industrial policy where we have
+
+to do something in all 50 states yeah I
+
+want to get into the chip ban in a
+
+second and I definitely by the way the
+
+chip ban is of course a subsidy for
+
+American companies too when I say
+
+subsidy I don't just mean literally
+
+giving them a trillion dollars though
+
+hey maybe we should try that right do
+
+you remember that infrastructure bill
+
+can anyone point to a single Bridge
+
+built from the trillion dollars of the
+
+infrastructure Bill a a single Bridge
+
+right we could have a trillion dollar
+
+chip Bill and maybe even some chips
+
+would get built who knows yeah I
+
+mean so I'm very allergic to I guess the
+
+whole us China conflict I mean I we
+
+could do hours probably on this from
+
+kind of beginning to end um but in brief
+
+should embrace economic competition with
+
+China and stop emphasizing the
+
+geopolitical angle because that's really
+
+how China thinks of it they think that
+
+they will win the
+
+geopolitics through winning the
+
+economics like every single part Chinese
+
+party document that comes out you know
+
+they talk a little bit about belon road
+
+but they sort of know it doesn't work
+
+what they really want is to be the
+
+economic hegemon and because they're
+
+Orthodox marxists if you you know here's
+
+a funny one they were such Orthodox
+
+marxists that they decided to own the
+
+means of
+
+production and they thought that results
+
+in global dominance by literally owning
+
+the factories that build all the stuff
+
+and they weren't averse to using free
+
+market capitalism to get to the point
+
+where China owns the means of production
+
+so I think that's their theory of
+
+geopolitics and they don't think about
+
+it as this like Imperial way that we in
+
+the west think of it the Chinese
+
+approach to dominance it's more like
+
+it's not that you go out to the
+
+periphery and you conquer all the
+
+periphery which we could say is the
+
+Roman way of building an empire it's
+
+more the you consolidate and unify China
+
+and then you outshine and extract
+
+tribute from all of the periphery that's
+
+the Chinese model of Empire historically
+
+and I think these different set of
+
+assumptions are there right like for
+
+everything we can say about China is
+
+like can we name a single country that
+
+China has invaded since their last war
+
+with
+
+Vietnam like that's been over half a
+
+century ago right like it's been a long
+
+time the last place they annexed You
+
+could argue maybe it's Hong Kong but
+
+really it was Tibet and from their
+
+perspective Tibet Hong Kong Taiwan is
+
+just unifying all of the Chinese lands
+
+so so I think the economic competition
+
+and having a smarter trade policy I
+
+think that is the right approach to
+
+think about China and like militarizing
+
+it or like having a rhetorical point
+
+where you emphasize the National
+
+Security angle I think that is likelier
+
+to cause them to also build up military
+
+capacity right and I think the US in the
+
+21st century should strap in for the
+
+long game of beating China economically
+
+over the next 50 years and it will take
+
+50 years China will not implode in five
+
+years it will not implode in 15 years
+
+it'll take 50 years to beat China
+
+economically and once more
+
+manufacture uh high technology here in
+
+the United States rather than in East
+
+Asia so before going a little bit deeper
+
+on China I just wanted to zoom out for a
+
+second and ask if you see any other Live
+
+players on the global stage that you
+
+think we should factor into this
+
+analysis I look around at the US I agree
+
+with your general sense that like most
+
+of the second tier of AI companies even
+
+those that have raised in the low
+
+billions days seem to be numbered you
+
+know that that used to be sort of a
+
+spicy take about your term but
+
+increasingly as these sort of Aqua her
+
+type deals are happening it's actually
+
+now becoming I think sort of consensus
+
+that leaves us with maybe like five
+
+companies at the top depending on
+
+exactly how you'd want to count I would
+
+certainly still put open Ai anthropics
+
+and Google in the top three just by the
+
+kind of sheer Excellence of the science
+
+obviously they've scaled but they seem
+
+to have a knowhow that is kind of still
+
+Cut Above meta has definitely crashed
+
+that party in a meaningful way although
+
+I wouldn't put them quite at the top
+
+tier and then I would never count out an
+
+Elon company so I definitely would put
+
+an xai SL Tesla whatever in that same
+
+uh category yeah same let's call that
+
+the top five when I look around the rest
+
+of the world you know then I sort of
+
+have China as like a bucket and then
+
+maybe we could see a European Champion
+
+there's mraw you know Europe maybe wants
+
+a European Champion but obviously
+
+they're a bit of a harder environment to
+
+do business in and it's unclear exactly
+
+how that's going to play out maybe
+
+somebody from India maybe somebody else
+
+I'm not thinking about any other you
+
+know before we Zoom back back in on
+
+China which I think is inevitably where
+
+we're going is there anybody else that
+
+you would say really has to be watched
+
+on the global game board I think not
+
+quite yet but I think 10 to 15 years
+
+from now not 10 maybe 5 years from now
+
+10 years from now they will be a
+
+formidable Indian giant I think that
+
+India is very likely to develop its own
+
+software
+
+ecosystem and if they decide to
+
+eventually go the route of favoring
+
+Indian companies over Western companies
+
+you know that's uh 1 and A2 billion
+
+users right there that's large enough
+
+that's the same sort of initial captive
+
+audience that Chinese companies enjoy
+
+and that actually even a Russian company
+
+Yandex enjoys right Yandex kind of is
+
+the Russian software conglomerate they
+
+basically do almost everything that
+
+Western software companies do including
+
+having a self-driving program of their
+
+own they're not leaders in any sense but
+
+they demonstrate that even if you have
+
+like a very small Market of users which
+
+honestly like 100 million users is
+
+really not that much but if it's behind
+
+a digital wall or regulatory wall well
+
+then you can do very similar things to
+
+Silicon Valley even if you have much
+
+less money than Silicon Valley companies
+
+you can do for a few billion but in
+
+Silicon Valley is done for tens of
+
+billions or hundreds of billions and I
+
+think the Indian situation will be very
+
+similar something will happen there I
+
+think for Europe I'm more bearish on
+
+Europe after macron stepped down because
+
+I think Emmanuel macron was personally
+
+convinced of the importance of
+
+artificial intelligence had personal
+
+contacts with Silicon Valley championed
+
+and fa uh pushed against German
+
+Regulators ironically using French pull
+
+and wait to have French diplomats argue
+
+against regulation you know think how
+
+dire it is if if French diplomats are
+
+going around Europe arguing against AI
+
+regulation while the belgians and the
+
+Germans are going wild and having fun
+
+restraining them and it went as far as
+
+uh the French state was trying to do the
+
+best it could to recruit people into
+
+Paris this was a smart strategy with the
+
+exit of London from the European Union
+
+Paris could have become the startup
+
+capital of Europe now if a future frch
+
+government picks this up and let me
+
+explain a little bit uh France still has
+
+excellent mathematics education they
+
+still have lots of field medalists and
+
+so on you have the Raw Talent there
+
+right so they don't need to poach from
+
+MIT they have their own mini MIT so they
+
+have a university there it's a big city
+
+so you don't feel like you're in a
+
+Backwater and if the French government
+
+gets off your back you're not even
+
+getting in trouble regulatory wise like
+
+in theory could actually do a startup if
+
+the French government got out of your
+
+way and gave you some tax breaks and all
+
+of that stuff and also actively invested
+
+into seeding an ecosystem there so I
+
+think it remains an option for the next
+
+four to 5 years for French government to
+
+continue this strategy I'm just not sure
+
+if they will right okay so then that
+
+brings us back to us and China I would
+
+love to get
+
+maybe the brief version of how you
+
+understand why the US and China are at
+
+such odds in the first place I don't
+
+have a great account of it you know
+
+start like you with a sort of naive
+
+observation that like we're on opposite
+
+sides of the globe and it seems like you
+
+know neither one is a as you said like
+
+we're not g to invade the Chinese
+
+Mainland and they're not going to invade
+
+North America so we should seemingly be
+
+able to coexist each comfortable in the
+
+fact that we've got these huge ocean
+
+buffers and yet all I hear I feel these
+
+days is out of like the DC establishment
+
+in general China this China that China
+
+China China and it's also now moving
+
+into the AI discourse in a way that I
+
+think is quite unhealthy where it's like
+
+well if we don't race to develop the
+
+most powerful technology that we can as
+
+fast as we can then we're just seeding
+
+the future to China and we're going to
+
+have to live under Chinese values and I
+
+swear to God people who say that I I
+
+always want to know like what is your
+
+definition of Chinese values that you
+
+are you know expecting us to be living
+
+under because I think that's just often
+
+such a vapid comment but anyway why do
+
+we have this and I guess the next
+
+question that you can maybe carry on
+
+into is is there any way for us to avoid
+
+the AI arms race or AI cold war with
+
+China the chip ban to put my cards on
+
+the table seems like like a step in the
+
+wrong direction in that it can only be
+
+interpreted from their side as at best
+
+an attempt to keep them down and at
+
+worst an attempt to create decisive
+
+strategic dominance over them and
+
+obviously neither one sounds very good
+
+from their perspective so yeah why do we
+
+have this is there any way we can avoid
+
+an arms race and what would you you know
+
+to maybe go back to the Strategic
+
+advising frame what would you advise the
+
+next president to do about the ship ban
+
+you know I think the chip ban is too
+
+little too late I think that had it been
+
+something that was pursued in like
+
+2010 China could have been taken off the
+
+track of developing Cutting Edge chips
+
+what the chip ban has done now it's not
+
+sanctioned China really it's given a
+
+subsidy to Chinese chip
+
+manufacturers so if you can't buy the
+
+best Nvidia chip or if you can only buy
+
+a nerfed version of it well guess what a
+
+Chinese chip designer or manufacturer
+
+only has to compete with the nerfed
+
+version not your Cutting Edge version
+
+they just need to do the nerfed version
+
+better slightly better and a Chinese
+
+giant or company becomes viable because
+
+there is enough Chinese commercial
+
+demand for gpus right they have a huge
+
+Tech ecosystem like dozens of huge
+
+companies they're equivalent of Google
+
+they're equivalent of Amazon they're
+
+equivalent of open AI right they're
+
+equivalent of weo they're equival of
+
+meta they have their own demand for this
+
+and the government in China hasn't
+
+really even started buying gpus at all
+
+if they wanted to they could make it a
+
+national priority and we've basically
+
+announced hey it's a national priority
+
+for you to develop your own high-end
+
+ships because we're not going to sell
+
+them to you not now and not in the
+
+future and the Chinese government is
+
+Rich enough to afford that I think
+
+people really don't understand that
+
+America is not the only country in the
+
+world that can drop a trillion dollars
+
+and a serious problem anymore China
+
+could drop a trillion dollars on this
+
+problem if they choose to or 100 billion
+
+or 50 billion right in the US context
+
+the US has not dropped a trillion
+
+dollars on this it's only dropped 100
+
+billion we dropped 100 billion on it and
+
+we get an Arizona chip Fab meanwhile we
+
+drop a trillion dollars on Building
+
+Bridges and it's not clear we built any
+
+Bridges so I find that super fun
+
+anyway the future here will rely on a
+
+general industrial Revival in the US
+
+where I do think the energy angle is the
+
+right one I think we should seek to
+
+radically increase energy production
+
+electricity production in the US because
+
+then it makes sense to run data centers
+
+in the US and energy is one of the few
+
+things where labor costs are not a big
+
+cost in producing electricity right so I
+
+think that would be a good medium-term
+
+advantage and I think that also the
+
+scientific question is an interesting
+
+one as well I do think we have a
+
+scientific advantage over China but not
+
+a technological advantage so I think
+
+something very good can be done in terms
+
+of smarter scientific grants even if the
+
+Chinese inevitably copy whatever the
+
+science discovers or produces a few
+
+years later I think that one of the US
+
+advantages has been DARPA and having a
+
+good understanding of how DARPA works
+
+well maybe you should have a DARPA
+
+focused exclusively on artificial
+
+intelligence and you have to staff it
+
+with ideologically diverse people so
+
+don't just hire all the EAS even if
+
+Jason methen is listening to this
+
+podcast you know the current CEO of Rand
+
+and Holden kovski and all of the a
+
+royalty they can certainly have a few
+
+program directors at the AI DARPA they
+
+just should not be allowed to appoint
+
+all of them so that my other advice to
+
+the president would be you know Madame
+
+President or Mr President whatever it
+
+might be you know we have to have
+
+ideological diversity because this is no
+
+longer just a
+
+technology people are pursuing their
+
+endof thee World cosmologies here it's
+
+like you know sure the Manhattan product
+
+Pro can be 50% Marxist but maybe keep it
+
+just 50% Marxist so similarly the AI
+
+DARPA maybe it can be 50% effective
+
+altruist but keep it at 50% okay not to
+
+pick on EA but they're like a big you
+
+also wouldn't want it to be more than
+
+50% eak whatever eak even is
+
+ideologically right it's just the case
+
+that a lot of people will pay lip
+
+service to the United States but
+
+ultimately if you look at their ideology
+
+look if you have a utilitarian ideology
+
+you are not always a friend of the US
+
+you are mostly a friend of the US but
+
+you're supposed to be thinking globally
+
+and the future light cone and all of
+
+that stuff you are incidentally not
+
+fundamentally patriotic and I don't want
+
+to overburden the patriotism because
+
+Patriots can be dumb Patriots often do
+
+very Noble and excellent things but it's
+
+very easy to weaponize Patriots against
+
+free speech like that's happened many
+
+times in the history of many countries
+
+where countries embark on a stupid
+
+course of action because proposing the
+
+smart one sounds like a little bit less
+
+nationalist than the alternative hey
+
+that's why the Empire of Japan failed it
+
+was too unpatriotic to suggest that
+
+maybe Japan cannot beat the United
+
+States and maybe Japan should not bomb
+
+or destroy us ships right that was just
+
+unpatriotic and you know the outcome was
+
+not one that I think Chinese
+
+nationalists appreciated when the full
+
+course of history Ran So let's put it
+
+this way I think currently the United
+
+States is it has to play a very careful
+
+game uh because it is not the world's
+
+industrial giant as it was so the game
+
+has to be uh scientific low energy costs
+
+very smart government spending we'll
+
+have to have much smarter government
+
+spending on strategically relevant
+
+science not more of it smarter because
+
+the way we're currently spending SC
+
+scientific money is that we're literally
+
+giving the Wuhan Institute of biology
+
+money to produce new plagues for the
+
+world
+
+that's kind of insane right that was
+
+partially USF funded that mind you is
+
+now well documented it's long ago left
+
+the Alex Jones or even Joe Rogan world
+
+it's now just Congressional testimony
+
+world so a lot of threats there that I
+
+want to P again I I invite push back I
+
+put provocative things there because we
+
+need to have real and honest
+
+conversations so I just so I I'm broadly
+
+very much with you when it comes to okay
+
+let's get our own house in order let's
+
+like throw up some nuclear plants get
+
+the energy you know flowing more freely
+
+all that stuff sounds great when it
+
+comes
+
+to
+
+the I do understand the chipan in a
+
+similar way that like we're inviting
+
+them to develop a strong industry and I
+
+don't doubt their ability to do it it
+
+may take some time I don't know how long
+
+it's going to take but you know I always
+
+say I watched them throw up a hospital
+
+in a handful of days you know at one
+
+point so I don't want to be caught
+
+underestimating their ability to create
+
+a chip industry I also think there's
+
+just an interesting question of sort of
+
+do we want to be developing this
+
+technology in tandem or do we want to be
+
+running on sort of parallel tracks and
+
+having like secrets from each other and
+
+all of the things that that implies I
+
+don't necessarily know that you meant to
+
+imply this with DARPA but when I think
+
+DARPA I sort of think like secret
+
+technology development some of that
+
+stuff obviously Finds Its way into the
+
+broader world but some of it is secret I
+
+think the US government kind of sucks at
+
+developing secret technology I think the
+
+US has great strength in its commercial
+
+sector which is by its nature public
+
+even if you have Trade Secrets right you
+
+know Nvidia has Trade Secrets tsmc has
+
+Trade Secrets secrecy in that sense
+
+makes sense secrecy in a top classifi
+
+you know top secret classified something
+
+well let's say I think the World War II
+
+era US government could do that well we
+
+are not dealing with a World War II era
+
+government if you declare something
+
+classified and top secr
+
+the result will not be a technological
+
+breakthrough it'll just be waste
+
+shielded from oversight so I think that
+
+there can be clandestine projects it's
+
+sort of like well how exactly we apply a
+
+artificial intelligence to the nsa's
+
+work okay that can be secret but
+
+commercialization and by the way the
+
+intelligence world has done this through
+
+institutions like incel right any
+
+technology you can declassify and hand
+
+over to Silicon Valley or America's uh
+
+commercial sector you should you should
+
+just do as much of that as possible even
+
+if it means that China catches up to
+
+Silicon Valley 3 or four years from now
+
+because of what you declassify to
+
+Silicon Valley because the true
+
+advantage of the United States is its
+
+vast wealth and the speed of its
+
+scientific progress and when you make
+
+something secret you stall scientific
+
+progress you don't accelerate it I also
+
+worry that this combination of trying to
+
+deny chip access which is not going to
+
+work entirely but you know may make for
+
+at least some asymetry you know China
+
+might be looking at a situation where
+
+they're saying gez we can only get to
+
+20% the compute capacity that the United
+
+States can get to and also they've got
+
+some secret military science programs
+
+that we don't have much of course they
+
+might hack into those you know perfectly
+
+capably who knows but let's say they are
+
+also like genuinely worried that there
+
+are secrets that they are not able to
+
+learn it worries me that that might send
+
+them down a totally different branch of
+
+the technology tree and when I think
+
+about like how do we get into an arms
+
+race that would be a really bad
+
+situation versus how do we avoid it one
+
+key factor there seems to be are we kind
+
+of on the same general technology path
+
+such that there is kind of a shared
+
+understanding of what everybody's
+
+working with versus to what degree do we
+
+look at the other side as kind of the
+
+great unknown that we can project our
+
+fears onto and then motivate ourselves
+
+to you know take higher risks be more
+
+militaristic in our technology devel
+
+historically that's always been the case
+
+right even when the US and the USSR
+
+signed a treaty Banning biological
+
+weapons development in the late Cold War
+
+both s side scientists were of course
+
+told that now you should get to work
+
+because of course the other side is
+
+ignoring this treaty and we don't know
+
+what they're doing so you best develop
+
+the wor plagues you can think of and
+
+even during World War II the fact that
+
+Los Alamos scientists greatly
+
+overestimated the state of German
+
+nuclear research is what allowed the
+
+project to be completed before the end
+
+of the war and be used in Japan I think
+
+the weaponization of AI is like
+
+troubling and I think part of it is that
+
+you know scientists are like everyone
+
+else on some level they think weapons
+
+are cool and they want to develop cool
+
+weapons so if they find a way to make
+
+physics a weapon people get very excited
+
+and I think this is one of the problems
+
+Where We crave peace as a species but we
+
+also crave
+
+violence and I think a lot of the time
+
+we should actually be very mindful of
+
+our motivations for developing
+
+breakthroughs I think that it is best if
+
+artificial intelligence is a peaceful
+
+technology for two reasons first we do
+
+invite existential risk like andum
+
+Extinction into the equation if we're
+
+trying to develop literally weaponized
+
+or malevolent AI dude Skynet is not just
+
+a movie it's a pentagon pitch deck at
+
+this point right like if you could
+
+deliver half of what Terminator films
+
+depict if you could deliver half of that
+
+the Pentagon would just give you a
+
+trillion dollars like right away right
+
+uh Skynet but a pitch deck would be you
+
+know that'll probably work but that's
+
+like kind of we are developing the worst
+
+technology first when we think of it in
+
+a weapons context we will not be
+
+prioritizing safety and we will be
+
+teaching an artificial intelligence to
+
+win at zero sum and adversarial games
+
+and to win at logistical and military
+
+games and I think it's completely
+
+predictable that if you could have an
+
+agenda IC artificial intelligence that
+
+decides humanity is its enemy like
+
+that's literally the plot of Terminator
+
+and all of the AI safety people made fun
+
+of it for decades but if you just look
+
+at how the military world is perceiving
+
+AI you realize that that's like actually
+
+extremely bad and if you make it a
+
+geopolitical conflict the generals will
+
+ask you to just build Skynet please
+
+right they will just ask you to do that
+
+don't don't build Skynet bro just don't
+
+I know you think it's cool I know it
+
+feels really good good but you're going
+
+to regret it just as Oppenheimer
+
+regretted now after he got the high of
+
+the detonation then he regretted it and
+
+that's the hypocrisy of human nature but
+
+you know hopefully we can grow from that
+
+so let's not make it cool that way let's
+
+not fetishize the Manhattan Project
+
+let's not do all of that and instead let
+
+us be curious explorers of the universe
+
+and figure out what is the nature of
+
+these new forms of intelligence we're
+
+discovering and let's apply them to our
+
+economy to compete with the Chinese
+
+economy and who can get richer faster
+
+yeah I love that Vision just to put one
+
+little bit we're gonna have a full
+
+episode on this coming soon but a little
+
+bit of meat on the bone on you know
+
+because I think some people might be
+
+thinking okay sure but like what does it
+
+actually mean to have like weaponized AI
+
+versus non- weaponized AI one proposal
+
+for AI safety that I just have been
+
+reading through is to train AI
+
+so that in general you have these loss
+
+functions right in the training process
+
+where there's some objective that you're
+
+being optimized you the AI are being
+
+optimized toward and a huge Trend in
+
+general in the literature is to have a
+
+supplemental element to that loss
+
+function that in addition to you know so
+
+you have the one component of the loss
+
+function that's can you do the task and
+
+then there's some other thing that's
+
+like but we also want to emphasize this
+
+and that that could be like sparsity for
+
+efficiency or for interpretability or
+
+what have you so this really interesting
+
+one that I just came acoss cross was
+
+about minimizing self other
+
+distinction and trying to create an AI
+
+that had the same internal State
+
+regardless of whether it was referring
+
+to itself or referring to someone else
+
+and this is a very early proposal but
+
+they've come up with all these different
+
+scenarios in which they think there's
+
+really no need for the AI to have a
+
+different representation of these
+
+Concepts just because it's referring to
+
+itself versus someone else so let's try
+
+to minimize those differences and
+
+they've been able to show in Sim very
+
+simple reinforcement learning scenarios
+
+that applying this technique can be the
+
+difference between agents emerging that
+
+deceive other agents or that don't
+
+deceive other agents and I think this is
+
+like one of the best ideas that I've
+
+heard in a while for how to create AIS
+
+that are sort of the like kumbai
+
+you know uh all is one we're all sharing
+
+Prosperity sort of mindset that we might
+
+hope to have but obviously that's going
+
+to be like a real problem if the goal of
+
+the AI is to like distinguish between
+
+you know friend and Foe on the
+
+battlefield so or at least it seems like
+
+those things might be quite incompatible
+
+so I I do think that there is like real
+
+we're so early in it we've kind of just
+
+got these things to work right we've
+
+just ended the transformer for
+
+everything era and we're just barely
+
+getting into the the lots of different
+
+components to make tons of different
+
+architectures era and we don't know that
+
+much about this stuff yet but it sure
+
+seems like we could optimize for telling
+
+friend from Fox and you know killing
+
+foes or we could take some more time and
+
+be more creative like minimizing self-
+
+other distinction and that just seems
+
+like such a much better idea to me that
+
+I would really love to see us go down
+
+that path
+
+so the Leopold plan I want to kind of
+
+give you a chance to maybe articulate
+
+the Sam plan the Leopold plan in brief
+
+as I understand it is we should do
+
+everything we can to keep China down for
+
+the time being so we have a couple years
+
+lead we should Harden our defenses we
+
+should get the National Security
+
+establishment and the AI Labs into some
+
+sort of public private Fusion
+
+partnership you know we'll keep all the
+
+secrets from China that way they'll be
+
+denied the chips then because we are the
+
+good guys of course we will use this
+
+lead that we have to solve alignment
+
+obviously we details be filled in later
+
+I I honestly don't really like it and
+
+then once we've done that once we can
+
+then approach China from a position of
+
+decisive strategic Advantage then
+
+because again we are the good guys we
+
+can approach China with the offer of
+
+benefit sharing and then we can sort of
+
+maintain American hegemony and American
+
+you know Western civilizational values
+
+will prevail and China will kind of
+
+recognize that better to take the deal
+
+at that point than to you know what
+
+alternative will they have we'll have
+
+super intelligence how would you what's
+
+your alternative uh vision for how
+
+leadership can conceive of a plan for
+
+the you know next however many years in
+
+AI that would contrast against that let
+
+me start at the end of the plan and work
+
+backwards the US cannot credibly offer
+
+benefits ch ing of this kind the US
+
+allowed Germany and Japan to rebuild
+
+their economies after World War II
+
+because it was interested in the
+
+containment of the Soviet Union and the
+
+Soviet Union was a threat had that not
+
+been the case perhaps Germany would have
+
+been de-industrialized in 1946 rather
+
+than
+
+2024 which mind you is partially the
+
+US's doing through the destruction of
+
+nordstream I'm just happy to say it's
+
+overwhelmingly clear the US did that
+
+the Second Step so the offer cannot be
+
+credibly made therefore the Chinese will
+
+not accept it a step before then we
+
+solve
+
+alignment because who is we who is we
+
+what set of institutional or political
+
+forces in the US government would result
+
+in an accurate scientific understanding
+
+of alignment assuming that is a coherent
+
+problem and make rational bureaucratic
+
+committee driven decisions in line with
+
+that I mean sure if we appoint a
+
+benevolent dictator of AI which of
+
+course if we take the premise is a
+
+benevolent dictator of the United States
+
+and of the planet so you know so much
+
+for American Freedom loving values
+
+perhaps that is the true convergence all
+
+along and then we go a step earlier
+
+where it's sort of you know this this
+
+kind of hardening the only way you can
+
+truly make the American Technology
+
+stack
+
+secure against China is to make it
+
+secure against US
+
+citizens so the idea of an open Digital
+
+Society a creative Digital Society I
+
+know open source you know people talk
+
+about open sourcing the weights but I
+
+feel the vision of the social Revolution
+
+That was supposed to happen because of
+
+the digital Revolution is so lost at
+
+this point I think we all want to have
+
+have a closed internet we want to have a
+
+monitored internet we want to have a
+
+censored internet like that's what it
+
+would require do you scrub AI leaks
+
+leaks would happen there would be an
+
+Edward Snowden of AI would you scrub
+
+that from the Western internet perhaps
+
+using AI to hunt down all instances and
+
+mentions of it like our problem is
+
+without an open source Open Access
+
+citizen participation vision of our
+
+internet if as soon as we abandon that
+
+we actually go on the treadmill first
+
+towards being like the EU and then even
+
+worse being like China I've written an
+
+article on this unfortunately this
+
+article has aged well it is uh called
+
+the centralized internet is
+
+inevitable and for example the only
+
+break in the escalating Trend towards
+
+social media censorship that is
+
+suggested and by the way this is
+
+documented by things like Wikileaks and
+
+so on various parts of the US government
+
+just
+
+suggest oh man sure is a nice software
+
+Monopoly you got here it would be a
+
+shame if someone anti trusted it can you
+
+remove the social media post or can you
+
+unbank this person this Alex Jones
+
+person he's a problem do you remember
+
+that happened in one day all the major
+
+social media networks decided to
+
+deplatform him I don't like Alex Jones
+
+but that should have been a red flag for
+
+the state of Internet freedom and as
+
+soon as we abandon sort of the open
+
+source Vision I'm open to us developing
+
+a new vision of what the internet could
+
+be but let's not pretend that we are not
+
+slow walking into digital
+
+totalitarianism of Our Own Kind when I
+
+make a China comparison it is a warning
+
+it is not praise right so I'm not
+
+praising the US when I say that the US
+
+internet every year gets closer and
+
+closer to the Chinese internet or to put
+
+it differently if one were to speak
+
+their mind politically on socially taboo
+
+Topics in the US today I think your
+
+business gets in about as much trouble
+
+as it does in China and perhaps the only
+
+difference is you personally are not
+
+arrested you are just made unhirable and
+
+maybe you're put on an intelligence
+
+agency watch list and this happened to
+
+many concrete documented cases of US
+
+citizens in a way that's
+
+unconstitutional in a way that should be
+
+corrected so I'm just going to talk a
+
+little bit about that so the hardening
+
+can't happen if the civilian
+
+infrastructure is built to be open so
+
+I'm open to hardening the infrastructure
+
+we should not be enabling at least for
+
+the military side of things to be
+
+accessed however the commercial side
+
+kind of has to be open or it becomes
+
+structurally tyrannical so we have to
+
+figure out how to thread that needle
+
+what kind of Security will we have on
+
+the base layer of our economy Society
+
+politics and communication and like how
+
+can we do that and I know many people
+
+have many disagreements but I'm talking
+
+here broadly more about the
+
+institutional incentives of the
+
+companies that provide us our very tools
+
+of thought at this point we are
+
+cognitively Outsourcing as individuals
+
+we're cognitively Outsourcing a lot to
+
+corporations and it is extremely risky
+
+to push a closer corporate government
+
+partnership than already exists because
+
+then who shall restrain it in a real
+
+politic way who will restrain these
+
+organizations and the government from
+
+being tyrannical in a way that is
+
+illegal you can't just say oh that's
+
+illegal you can't do that law has to be
+
+backed by power and usually it's backed
+
+by a balance of different powerful
+
+actors where law is sort of the
+
+operating protocol between them right so
+
+rule of law could be destroyed through
+
+significant centralization of the
+
+digital space in fact we saw this in
+
+Canada in Canada if you gave 50 bucks to
+
+the trucker's Revolt you were unbanked
+
+your transaction was tracked and your
+
+bank account was canceled okay like
+
+that's a level of tyranny I've not
+
+actually heard of China do I've heard
+
+China locking up hundreds of thousands
+
+of people but I've not heard them
+
+tracing like individual Bank
+
+transactions to find every single
+
+smalltime donor who gave money to Fallen
+
+gong or something like that I've not
+
+heard of China doing that I've heard of
+
+Canada doing that so I think we give a
+
+pass to Western totalitarianism too
+
+often still Chinese totalitarianism is
+
+worse but that's not what we should be
+
+competing on so that was a bit of a
+
+tangent but let's go to the earlier
+
+stages of the plan I don't think we can
+
+prevent the rise of China and I think I
+
+probably just disagree on AI timelines
+
+if what leapold was saying on the
+
+earlier steps that we should try to slow
+
+down China if you think Super
+
+intelligence in this AGI sense is like 5
+
+years away then okay maybe that makes
+
+sense but if you think it's 20 years
+
+away or 200 years away then it makes no
+
+sense and I don't think it's 5 years
+
+away I'm happy to bet with anyone that's
+
+not 5 years away so because of that I
+
+think we we should not be escalating
+
+geopolitical competition with China and
+
+we should instead be pursuing a
+
+mercantilist trade policy we should be
+
+thinking of it in terms of developing
+
+the US sector and US economy and we
+
+should justify it in that language and
+
+it should be a set of give and take
+
+negotiations with China over splitting
+
+the global economic pie it should not be
+
+a set of give and take negotiations over
+
+splitting the light cone it shouldn't
+
+that invites the wrong kind of logic and
+
+invites the wrong kind
+
+of bureaucratic incentives like it's
+
+almost like these people never seen how
+
+bureaucracies work either the large
+
+corporate environment let alone a
+
+government environment you have to be
+
+extremely careful the first misaligned
+
+artificial intelligence was arguably
+
+bureaucracy let's prompt engineer it
+
+really really carefully it's poetic I
+
+like it what do you think is the I have
+
+maybe three three and a half more
+
+questions if you have that much time one
+
+is going to be how do you understand the
+
+role of Open Source in this situation
+
+that is at least at the moment you know
+
+a sort of irrevocable benefit sharing
+
+proposal among other things yep then
+
+though I also wonder let's say we do you
+
+know continue to see more and more
+
+powerful Ai and we start to get to a
+
+point where it's like actually this is
+
+starting to look dangerous is there any
+
+sort of precedent that we should look
+
+back to or any framework that you would
+
+look to for how do we set up Global
+
+coordination and containment of the
+
+technology development another one was
+
+going to be on Sovereign AI this one
+
+probably save for the future but if
+
+you're like any of the other 100 plus
+
+countries in the world beyond the two
+
+that we've spent most of our time
+
+talking about there's this notion that
+
+like we should have our own models or we
+
+should take a base model maybe from meta
+
+and train it on our bureaucratic
+
+information or whatever I wonder if you
+
+think there's value in that and the
+
+final one personal angle is to what
+
+degree do you use generative AI in your
+
+personal work today and and what sort of
+
+value if any are you getting from it so
+
+you can tap Dan through that pick one or
+
+just come back next time I'll answer
+
+I'll answer I check in every now and
+
+then and use generative AI to see where
+
+it is it's not really a big part of my
+
+workflow because it usually provides me
+
+the consensus or the general thinking in
+
+a field and almost all of my work is
+
+trying to find spots where the economic
+
+or political consensus or industry
+
+consensus is flawed or overlooking
+
+things so in a way high schooler interns
+
+not yet useful maybe I'll check in when
+
+it can give me a Harvard intern who
+
+honestly between you and me are not that
+
+useful either you kind of have to be
+
+even pickier than that if you're doing
+
+research so I don't think it is useful
+
+for novel social science research yet
+
+and because of that I don't use it and
+
+stylistically sometimes it writes puts
+
+things into words about as well as I do
+
+the problem is it does it in a
+
+recognizable way so I can't even use it
+
+in my personal writing because it can't
+
+really do my voice and you know I can
+
+always tell since one of my part-time
+
+one of the hats I wear I occasionally
+
+I'm an editor for other people people 's
+
+writing right for poan magazine I sit on
+
+the editorial board I can always tell
+
+when they use Ai and almost always it
+
+makes the writing worse because just as
+
+people have become sensitized to
+
+so-called AI slop in a visual sense
+
+people become sensitized to reading
+
+stuff that sounds like AI I've actually
+
+had to change my own style to be a
+
+little bit different so that people
+
+aren't confused about how this text is
+
+generated so yeah I think it's not even
+
+useful for all white collar work not at
+
+all I'm sure it can write probably a
+
+good rescheduling email I think that's
+
+about the level where if Google makes a
+
+feature where they like tweak or improve
+
+the UI with you know my inbox like get
+
+the BET suggested text a little bit
+
+better maybe I'll integrate in my
+
+workflow there but yeah not yet making
+
+use of the available intelligence it
+
+seems to low grade well we will continue
+
+to watch that closely and I'll share a
+
+couple ideas with you perhaps offline
+
+I'm working right now on fine-tuning
+
+some of the latest models to right as me
+
+and I haven't completed this project yet
+
+so I don't know how well it's going to
+
+work in all previous generations that
+
+I've tried to find tune it did not work
+
+but there have been some notable
+
+improvements in the capability actually
+
+most importantly probably the context
+
+window because I found in the
+
+fine-tuning it could pick up my style
+
+okay but it couldn't learn facts and it
+
+it still could learn unique ideas or
+
+theories and so on and perhaps with the
+
+larger context window it'll be capable
+
+of it yeah yeah the hope is I can stuff
+
+all my stuff in there and it might not
+
+have to hallucinate anymore for starters
+
+I think I will still have to give it
+
+like the N the kernel of the original
+
+idea that I have in the moment I don't
+
+think it's going to at the current
+
+generation substitute for me there
+
+although we'll find out I'll definitely
+
+let you know if it does but my hope is I
+
+can give it the kernel and then I can
+
+give it like a lot of background and
+
+then train it on my style and get kind
+
+of interesting outputs but I'll let you
+
+know if that starts to materialize
+
+that's my current AI Obsession I know
+
+you got to go this has been fantastic uh
+
+a lot of really interesting things to
+
+think about and I will look forward to
+
+maybe getting into Sovereign Ai and I'm
+
+sure we'll have plenty more developments
+
+on the US China I don't want to say
+
+conflict because I want to frame it at
+
+let's frame it as friendly rivalry
+
+hopefully comp constructive yeah but yes
+
+this will be certainly a very active
+
+area for Contin strategic analysis for
+
+now Sam bua founder of bismar analysis
+
+thank you for being part of the
+
+cognitive Revolution till next time
+
+thank you great job as
+
+always thanks for listening to Live
+
+players Please Subscribe leave a review
+
+and check out s's excellent newsletter
+
+the bismar brief for more rigorous
+
+analysis of key individuals institutions
+
+or Industries Live players is a
+
+production of turpentine the podcast
+
+Network behind econ 102 with Noah Smith
+
+and Moment of Zen
+
+hey everyone Eric here at turpentine
+
+we're building the First Media outlet
+
+for tech people by tech people we're the
+
+network behind the show you're listening
+
+to right now we have a slate of hit
+
+shows across a range of topics and
+
+industries from our Ai and investing
+
+cluster of podcasts to shows that drive
+
+the conversation in Tech with the most
+
+interesting thinkers Founders investors
+
+and influencers like econ 102 with Noah
+
+Smith we're launching new shows every
+
+week and we're looking for
+
+industry-leading sponsors if you you
+
+think that might be you and your company
+
+email me at er turpentine doco that's e
+
+r i k turpentine doco and let's partner
+
+together
+
+[Music]
+

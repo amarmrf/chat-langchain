@@ -1,0 +1,2460 @@
+[Music]
+
+Welcome To Live players where political
+
+scientists and strategists Sam o bua and
+
+I discuss the key individuals with the
+
+power to alter our current Society every
+
+week we provide analysis of the news and
+
+case studies of Live players as well as
+
+key institutions and technologies that
+
+make up the global power landscape let's
+
+dive
+
+in Sam I I know you wanted to talk about
+
+DARPA this week what uh what got you so
+
+interested in in DARPA I mean besides
+
+being the uh best known R&D government
+
+agency in the world I think what's very
+
+interesting about DARPA is its cost
+
+Effectiveness now of course when we're
+
+talking about cost Effectiveness uh you
+
+know you have to consider that this is
+
+the Department of Defense a billion
+
+dollars here a billion dollars there
+
+soon you're talking about real money
+
+right like uh for the fiscal year of
+
+2023 uh darpa's budget was just $4.1
+
+billion which makes for half a percent
+
+of the defense Department's
+
+$773
+
+billion now possibly you could have
+
+gotten some of the same
+
+Technologies um out of DARPA through
+
+some other institutional means but I do
+
+think that in the United States context
+
+especially uh the defense justification
+
+for R&D funding and is you know
+
+sometimes
+
+publicly um publicized and publicly
+
+accessible challenges right like the
+
+self-driving car challenges of the early
+
+2010s and
+
+2000s uh I think DARPA stimulates much
+
+more than just a development of
+
+America's Next Generation of weapons
+
+they stimulate often technology that
+
+gets commercialized and arguably the dod
+
+used to be much better at you know
+
+declassifying Technologies and allowing
+
+its contractors to eventually you know
+
+Implement them in other sectors of the
+
+economy there's a real Gap in who
+
+exactly should take on the cost of
+
+developing technology that isn't yet
+
+ready for prime time right technology
+
+that is not yet
+
+commercializable um sometimes you know
+
+large uh corporate bodies uh working for
+
+defense will take up these costs right
+
+this uh for ion dollar a year that I
+
+mentioned right like you could conceive
+
+looh Martin having a budget to develop
+
+these products and these Technologies
+
+and then products and eventually sort of
+
+you know try to Lobby the government
+
+into buying them uh but I think
+
+institutionally it's much more efficient
+
+to have a relatively lean government
+
+agency actually go ahead and and do this
+
+and just develop the technology for its
+
+own sake something that's very
+
+interesting in the world of tech is that
+
+as soon as someone has demonstrated the
+
+feasibility of something lots and lots
+
+of people go and reverse engineer it uh
+
+be it create a you know generic variant
+
+of a patented drug uh recreate a
+
+mathematical proof um you know train
+
+large language models it almost doesn't
+
+matter what as soon as you demonstrate
+
+um viability um others will re-engineer
+
+these advances so I think ultimately
+
+DARPA does a great service to the
+
+economy and just to give like a partial
+
+list of what they worked on it's sort of
+
+like stealth aircraft PR Precision
+
+guided Munitions drones uh self-driving
+
+uh which now is of course hitting our
+
+roads as we speak um but for example
+
+also they had a role to play in the
+
+development of the graphic user
+
+interface and arpanet which was the
+
+predecessor of the modern internet talk
+
+about the evolution of of DARPA and and
+
+what it pretends or or says about sort
+
+of the evolution of government
+
+Effectiveness more more broadly well you
+
+know DARPA perhaps was not that unique
+
+in so far as government agencies uh went
+
+or at least as far as the defense sector
+
+went uh a few decades ago right the R&D
+
+Departments of
+
+1940s uh of 1940s defense establishment
+
+were very different from the ones in
+
+the' 70s let alone the ones in the 2000s
+
+what's exceptional sort of about DARPA
+
+is that it has remained relatively lean
+
+um basically in the
+
+1990s you know there was um this
+
+realization that Warfare was about to
+
+change and no one really knew which
+
+direction Warfare would go in uh the
+
+Pentagon had its guesses and they pushed
+
+several honestly contradictory Concepts
+
+um everything from this repurposing of
+
+stealth where of of course originally uh
+
+stealth bombers were supposed to be a
+
+better way to deploy uh strategic arms
+
+among other things right a stealth
+
+bomber might actually be a better
+
+delivery vehicle uh for nuclear weapons
+
+than a ICBM that can be tracked um and
+
+that's you know that was a rather scary
+
+Prospect in the 1980s then in the 1990s
+
+You Know It uh turns out that even
+
+Serbian anti-aircraft equipment based on
+
+1970s Soviet technology could see the in
+
+invisible Ste stealth Fighters and shoot
+
+them down um there were all sorts of
+
+Concepts there and I think because of
+
+that because of that they correctly bet
+
+on Information Technology like kind of
+
+the end of the Cold War made it sort of
+
+obvious that there would be something in
+
+the domain of information processing
+
+that would end up being very important
+
+for Warfare now let's let's say a little
+
+bit about DARPA in this regard um I
+
+think that uh you know
+
+the the budget that it has had allocated
+
+for the last 20 years has been fairly
+
+steady um you know its share of the
+
+research develop test and evaluation
+
+budget has dropped however from
+
+6.4% in
+
+1996 to a 3 .3% in
+
+2021 um you know funding that they do
+
+have is kind of split between four
+
+categories which is basic research
+
+applied research advanced technology
+
+development and management support now
+
+the ratio of
+
+spending um on each category has
+
+remained the same since
+
+1996 and basic research has increased a
+
+little bit at the expense of advanced
+
+technology development which probably is
+
+to fill uh you know a key Gap in the um
+
+a key Gap in the usual defense funding
+
+practices I think that the interesting
+
+thing about it is that the budget has
+
+remained steady for the most part the
+
+categories are relatively fixed the
+
+personnel has not expanded darpa's
+
+personal count is 220 people or at least
+
+it was in 2022 that's just enough for
+
+everyone to still know everyone's names
+
+which I think is a good metric right um
+
+if you imagine what would be politically
+
+most advantageous and what happened in
+
+sort of the other branches of the US
+
+defense sector was that everyone of
+
+course wants to hire more people to work
+
+for for them especially if you're
+
+spending someone else's money so the
+
+natural um progression of a bureaucracy
+
+is that of a literal pyramid scheme
+
+right is both a pyramid scheme in the
+
+sense that a larger staff almost always
+
+justifies a greater budget and a larger
+
+staff is almost always politically more
+
+powerful than a smaller staff and it's
+
+also a pyramid scheme in that a lot of
+
+government power has always worked this
+
+way right government power has always
+
+had a foundation in
+
+patronage the dod is the world's most
+
+successful fundraiser raising trillions
+
+of dollars from the US government um of
+
+course and the American
+
+taxpayer um they have grown immensely
+
+over the last few decades so it is
+
+telling that the rare functional
+
+institution in this apparatus that is
+
+developing weapons but also technology
+
+more broadly remains about the same size
+
+as about the same number of people and
+
+has very empowered uh project manag
+
+managers now one of the key things about
+
+the Pentagon in general is that it has
+
+become infamously bureaucratic this was
+
+already lampooned in the
+
+1970s and I'm sure it had struggled
+
+already in the 60s but because of this
+
+process of ever
+
+expanding um basically ever expanding
+
+staff ever expanding patronage networks
+
+and of course sort of everyone wanting
+
+to have their fingers in all the pies
+
+where whatever project you have you will
+
+try to argue that it's relevant for
+
+everything else I think over time this
+
+together with a sort of Disconnect of
+
+which direction Warf fighting is going I
+
+think that caused a situation where
+
+people don't really have authority to
+
+fund what they think it makes sense to
+
+fund rather they are obliged to fund
+
+what everyone else thinks is a good idea
+
+to fund so the limited terms of the
+
+program managers at DARPA also means
+
+that everyone knows they have a limited
+
+window in which to make use of their
+
+budget right so with 220 people with a
+
+few billion dollars to play around with
+
+with an institution that doesn't really
+
+owe anyone that much um and with a
+
+limited tenure where you know you have
+
+just a limited window in which you can
+
+spend this money on research projects
+
+you might as well do something great
+
+with it uh if this was for you know
+
+forever if this was your permanent Post
+
+in the US government the result would be
+
+that you would probably spend it on
+
+building a small bureaucratic Empire of
+
+some kind so this is a great example of
+
+the effectiveness of well basically term
+
+limits now the initial funding of a DPA
+
+project can vary but these are generally
+
+substantial projects they're over a
+
+million dollars
+
+each much of this money goes towards
+
+smaller contracts that are designed to
+
+solidify um that an idea is isn't
+
+impossible right so it's first
+
+demonstrating
+
+viability and you know some of these
+
+Investments can be as low as
+
+$50,000 which means that you can truly
+
+match uh the funding to the size of the
+
+idea that you're supposed to be backing
+
+and tailor the appropriate amount of
+
+funding for whatever project or whatever
+
+technology you have in mind overfunding
+
+can be as deadly to the development of a
+
+new technology as underfunding basically
+
+you want to among other things encourage
+
+a situation where you're not producing a
+
+patronage Network so this means that
+
+sort of a reoccurring budget is actually
+
+worse than these oneof funding budgets
+
+and that there is a clear standard of
+
+has the technology uh viability been
+
+demonstrate it or not so in that sense I
+
+think DARPA is subsidizing so much of
+
+the rest of the economy um because these
+
+demonstrations of viability you know
+
+people take note of them and both in the
+
+private sector and in the larger less
+
+cost-efficient defense contracts that
+
+follow the program managers are
+
+generally not obliged to go through any
+
+type of peerreview they do rely on uh
+
+their informal networks of technical
+
+experts to determine the viability of
+
+their
+
+programs they're also able to bring on
+
+contractors from outside of DARPA to
+
+assist in project
+
+management while these contractors are
+
+subordinate to the project uh to the
+
+program manager there's sufficient
+
+sufficient institutional trust in DARPA
+
+to allow them autonomy and even the
+
+ability to liaz between different
+
+programs so at the end of the day uh the
+
+DARPA um pro project managers the
+
+program managers basically can uh fix
+
+various communication gaps that
+
+naturally exist in this like sprawling
+
+Behemoth that is uh the development of
+
+advanced weapons technology in the US
+
+fascinating it's so fascinating to think
+
+about why DARPA didn't expand it's
+
+almost it seems you know possible that
+
+DARPA would have had the same um sort of
+
+problems that have baged you know other
+
+sort of government institutions um say
+
+more about the why that that was the
+
+sort of the canary and the coal mine so
+
+to speak and what are what lesson what
+
+other lessons uh you know term limits
+
+you mentioned one can we can we draw
+
+from that in terms of uh making you know
+
+other government organizations uh you
+
+know as effective well I think the term
+
+limits uh are one of the absolutely
+
+critical components of this we're used
+
+to thinking about term limits for
+
+elected officials well what about for
+
+hired officials if I'm playful with my
+
+words right we hire uh non-elected
+
+government workers all the time perhaps
+
+some of those positions should be
+
+rotated as well not out of political
+
+necessity but on schedules that fit
+
+whatever it is that's uh necessary to do
+
+in a certain segment of government um I
+
+think that you know these positions are
+
+you know government positions tend to
+
+also not be very well paid some of these
+
+program managers are paid somewhere
+
+around $90,000 a year which is much less
+
+than comparable Talent can afford in the
+
+private sector so I think if you go into
+
+DARPA part of what you're doing is uh
+
+you're you're almost forgoing kind of
+
+personal uh Financial reward you just
+
+sort of want to play around with the
+
+freedom to advance technology and that's
+
+kind of interesting right that that's
+
+not necessarily something that scales
+
+and it's very different from the way
+
+that say Venture capitalists might
+
+Advance technology or the way academics
+
+might Advance technology right the
+
+incentives are very different there so I
+
+think that it being kind of part of a
+
+tour of Duty and the reputation of
+
+Excellence is almost self-fulfilling
+
+right if someone had worked at DARPA and
+
+now they work in the private sector I
+
+don't know about you but I almost always
+
+consider that a positive sign of the
+
+person's competence it's an alternative
+
+credential to say something else like um
+
+an MIT degree or having been an early uh
+
+engineer at say Google or something like
+
+this so even if they then go out of you
+
+know developing self bombers or robotics
+
+or whatever and they go into software
+
+that still says something so it is a
+
+rare part of the US government where the
+
+technical prestige is sufficient to
+
+still motivate talented people to go
+
+there despite there being relatively low
+
+compensation I think that you know the
+
+the other aspect of this is that the
+
+program might the program managers might
+
+still eventually uh be lower quality I
+
+do think that there are ways in which
+
+DARPA is politically precarious right
+
+basically since
+
+1972 um there have been growing
+
+restrictions on DARPA priorities that
+
+have perhaps blunted its capacity to
+
+produce anything as transformative as
+
+the internet or the personal computer
+
+right the long-term risk for DARPA is
+
+that political and military leaders
+
+outside the agency will just fail to
+
+understand why it works at all now they
+
+might believe in darpa's Effectiveness
+
+but they do so without grasping what
+
+underpins it and as a result they
+
+attempt to shape the priorities of DARPA
+
+towards their own priorities and you
+
+know they might have a worse grasp of
+
+which which Technologies are promising
+
+and of course their own priorities are
+
+already sort of baked into this uh
+
+patronage structure now I referred to it
+
+several times but consider does NASA
+
+really have to build uh something in
+
+every single US state
+
+right NASA manufacturers components in
+
+all US states why well because you need
+
+an argument for why your budget
+
+shouldn't be shrank right and you need
+
+to talk to a representative from from
+
+that state um the US military has
+
+basically similar stakeholder mechanisms
+
+uh you know you are locked into
+
+developing technology for aircraft
+
+carriers whether or not aircraft
+
+carriers are still a sensible technology
+
+a military technology to continue
+
+developing you're locked into uh human
+
+piloted Fighters whether you want to be
+
+or not I think we're probably going to
+
+have human piloted Fighters for the
+
+remainder of the 21st century unless
+
+there's a major war fought that's what
+
+it would take I think to uh have the air
+
+force stop developing a new Cutting Edge
+
+planes like that um and until it does
+
+well Pilots need jobs
+
+the people making decisions in the Air
+
+Force are are going to actually keep
+
+those Pilots employed whether or not
+
+they're militarily necessary and you
+
+know this this sort of stuff
+
+is perhaps we're looking with DARPA at
+
+sort of you know the kind of last tree
+
+standing in the forest where you're sort
+
+of wondering well why is this what is
+
+special about this particular tree why
+
+hasn't blight consumed it and maybe it
+
+was just lucky it was a atively small
+
+agency decades ago had a relatively
+
+narrow Mission had uh term limits it was
+
+respected enough and over time became
+
+more and more respected that people were
+
+proud of it so the rest of the defense
+
+department whenever they talk about
+
+Advanced military technology they have
+
+basically two arguments the one of the
+
+arguments is the cool stuff DARPA is
+
+doing and the other argument is you know
+
+inside this black box that you are
+
+legally not allowed to look at I have
+
+revolutionary Technologies and uh you
+
+know you should give me money to have
+
+twice as many black boxes that you can't
+
+look into and I promise all those boxes
+
+contain revolutionary technology too so
+
+these two arguments I honestly find the
+
+DARPA one more compelling so even if you
+
+don't work at DARPA it is enabling your
+
+uh budget your R&D budget to not be cut
+
+you mentioned people are incentivized to
+
+grow their budgets to that's how they
+
+get more money is growing their team
+
+what could change those incentives
+
+having like like like there's all sorts
+
+of mechanisms we could use here right
+
+the private sector answer used to just
+
+be basically cost Effectiveness the
+
+problem is you know cost Effectiveness
+
+because you're driven by the profit
+
+motive the problem with that is that if
+
+your customer is the government your
+
+budget last year and how much you
+
+charged for something last year anchors
+
+how much uh you're going to get next
+
+year right so if there's a single
+
+customer um you're in a pretty bad
+
+position and you're always incentivized
+
+to inflate costs I think there is no
+
+escaping
+
+the aspect of government which is the
+
+ability to do things that perhaps are
+
+are are sort of not allowed or not
+
+enabled Elsewhere One of the interesting
+
+things to me always is that you know for
+
+example in the US Air Force course
+
+you're legally allowed to use uh IQ
+
+tests to hire people for various
+
+positions right it's an exception in
+
+hiring practices there are all sorts of
+
+other exceptions like exceptions from
+
+environmental regulations exceptions
+
+from Like rules about how to govern
+
+information in the intelligence World
+
+etc
+
+etc there is some motive to do
+
+interesting and unique things that
+
+really drives people to outperform and
+
+when the US government as a whole all
+
+seemed like something where you could
+
+achieve those things and not only that
+
+like you know it was it was prestigious
+
+to achieve those things then there would
+
+be rewards for a job well done at least
+
+reputationally if not financially and
+
+you know people people will sometimes
+
+accomplish things relatively
+
+cost-effectively now once that is
+
+accomplished whatever the task you set
+
+to do uh be it building a bridge or
+
+developing a stealth bom or and so on um
+
+if you have to if you cannot move to a
+
+really different job in government very
+
+easily you are incentivized to propose a
+
+second bridge or a second stealth bomber
+
+whether or not they're needed and at
+
+twice the cost so the answer is that
+
+project orientation should be very
+
+important people should be looking at
+
+what has a certain civil servant done
+
+not how long long they've worked where
+
+or what their title is we should have
+
+personal responsibility and reputation
+
+tracking for Success on these projects
+
+and people should be shuffled between
+
+very different kinds of projects within
+
+the government it should be standard and
+
+allowed to do so now if you imagine that
+
+you might imagine someone that
+
+successfully completes a bridge project
+
+and then is reassigned with a
+
+significant budget maybe $50 million to
+
+find improvements for a stealth bomber
+
+that's not how the US government works
+
+today barely any government works that
+
+way at its best the British government
+
+has some small elements of this in
+
+within its civil service right at its
+
+best the Singaporean government has some
+
+elements of this and I think this is
+
+honestly how the US government used to
+
+function in the 1940s and 50s as it was
+
+still a new bureaucratic entity so I
+
+think that personal incentives can
+
+overcome bureaucratic incentives if we
+
+allow some individuals in government to
+
+be with term limits empowered to carry
+
+out projects hey everybody Eric here
+
+with a word from our
+
+sponsors real quick what's the easiest
+
+choice you can make taking the window
+
+instead of the middle seat Outsourcing
+
+business tasks that you absolutely hate
+
+what about selling with
+
+Shopify Shopify is the global Commerce
+
+platform that helps you sell at every
+
+stage of your business Shopify Powers
+
+10% of all e-commerce in the US and
+
+Shopify is the global force behind all
+
+birds rothis and Brooklyn and and
+
+millions of other entrepreneurs of every
+
+size across 175 countries whether you're
+
+selling security systems or marketing
+
+memory modules Shopify helps you sell
+
+everywhere from their all-in-one
+
+e-commerce platform to their in-person
+
+POS system wherever and whatever you're
+
+selling shopify's got you covered I've
+
+used it in the past at the companies
+
+I've founded and when we launched merch
+
+here at turpentine Shopify will be our
+
+go-to Shopify helps turn browsers into
+
+buyers with the internet's best
+
+converting checkout up to 36% better
+
+compared to other leading Commerce
+
+platforms and Shopify helps you sell
+
+more with less effort thanks to Shopify
+
+magic your AI powered Allstar with
+
+Shopify magic whip up captivating
+
+content that converts from blog posts to
+
+product descriptions generate instant
+
+FAQ answers pick the perfect email send
+
+time plus Shopify magic is free for
+
+every Shopify seller
+
+businesses that grow grow with Shopify
+
+sign up for a $1 per month trial period
+
+at shopify.com
+
+ofen go to shopify.com ofen now to grow
+
+your business no matter what stage
+
+you're in shopify.com
+
+ofen you alluded to the fact earlier
+
+that um governments can't fire their
+
+employees easily um you know Elon can
+
+come into Twitter or X and fire 80% of
+
+employees you know within the first year
+
+but Biden or Trump can't exactly do that
+
+I don't I don't think people appreciate
+
+the limits of actual Authority um that
+
+the president has what is the right
+
+mental model of thinking about you know
+
+where the Pres the power of President
+
+start and stop like how many people
+
+could they fire how do these people get
+
+fired can they get fired talk about that
+
+I think by default the US president can
+
+fire just a few thousand people right uh
+
+and can only appoint a few ,000 people
+
+the number of appointed positions is
+
+very limited uh Congress has over time
+
+passed all sorts of laws from previous
+
+um you know previous political battles
+
+not least of which were the battles with
+
+the Nixon Administration to limit the
+
+you know so-called uh you know theory of
+
+the unitary executive and so on there
+
+have also been legal challenges coming
+
+through the court system so I do think
+
+that in some other countries around the
+
+world we see interesting experiments
+
+right malus at least has the rhetoric in
+
+Argentina of maybe he'll do the Elon
+
+thing and fire 80 to 90% of employees
+
+though I think he will be less inclined
+
+um because of a you know strong
+
+commitment to anarco capitalism to then
+
+hire you know a much smaller team to do
+
+the same job he's more like doing the
+
+classic thing where you say okay the
+
+state shouldn't handle this some other
+
+aspect of society should handle this I
+
+think for a US president it's a slog and
+
+perhaps one possible method of shrinking
+
+government and making it actually
+
+efficient and lean is that you come in
+
+and you create a completely new body
+
+that has a competing mandate but a clear
+
+legal right to do the task of a large
+
+bloated and inefficient
+
+body and then over time you transfer
+
+more and more budget to the smaller one
+
+there's a political cost here so the
+
+political cost has to be in some way
+
+compensated with a political benefit
+
+usually this means that whenever you
+
+create something new you staff it with
+
+your political loyalists but I think
+
+there is a narrow space for achievement
+
+based political capital I think people
+
+do care ultimately to a great degree
+
+what is done or is not done and I think
+
+if a politician could take credit for
+
+creating a new organization within in
+
+the US government that solved a key
+
+problem in society and pointed out how
+
+now that we have this you know new
+
+agency we don't need old agency I'm here
+
+to cut old agency I think that's a
+
+that's a message that would work much
+
+better even Beyond say an anarco
+
+capitalist constituency especially if uh
+
+the old agency whatever it was was
+
+already staffed by the political enemies
+
+right there's something very zero some
+
+always about a political competition for
+
+power meanwhile the world of what we can
+
+achieve what we can do uh that's not
+
+Zero Sum so it's always an art to make
+
+it so that what is positive sum ends up
+
+being politically useful as well is it
+
+your belief that we could shrink
+
+government by 90% and it would work as
+
+well or better I think that we actually
+
+have decent evidence of this and all
+
+sorts of statistics right when you
+
+compare say in an international setting
+
+the number of bureaucrats per capita in
+
+say Estonia versus Belgium you realize
+
+that just because that small country uh
+
+underwent a digital transition in the
+
+1990s when they had fired former Russian
+
+communist officials and were for the
+
+first time hiring people into new
+
+bureaucracies they produced an
+
+administrative system that is as
+
+efficient or more efficient than Belgium
+
+so let's say Belgium versus Estonia
+
+demonstrates 50% gains on uh this kind
+
+of improvement right we can make
+
+government 50% smaller I think
+
+that we have come to view job creation
+
+as an end in itself and I think this is
+
+destructive it is destructive not only
+
+in government right because government
+
+jobs tend to be fairly well protected
+
+protected and government workers tend to
+
+be you know well organized and to want
+
+to make themselves in Mass uh hard to
+
+fire it even means that when we're
+
+thinking about the private economy we
+
+are subsidizing and favoring companies
+
+that create jobs as if jobs were an end
+
+in themselves politically rewarding
+
+large inefficient
+
+companies I think that Google has
+
+through its existence been rewarded for
+
+having more workers living in California
+
+rather than punished every single worker
+
+that they have in California is both a
+
+taxpayer and bragging rights and in the
+
+political world uh the incentives are so
+
+much worse than they are even for uh
+
+large companies so I would say that
+
+privatization has limited utility in
+
+itself because again uh there are some
+
+Goods such as the development of new
+
+technology for which you know it's
+
+either you know very small philanthropy
+
+or it's some entity like the government
+
+that's the main customer and as soon as
+
+you have this like private Partnership
+
+of a single or maybe two companies with
+
+the government that becomes just as
+
+bloated right so I want to emphasize
+
+here I don't think just narrow
+
+privatization solves everything but I do
+
+think you could privatize 20 or 30% of
+
+government and I do think that the fun
+
+function of the rest of it could be done
+
+much more efficiently uh so I think we
+
+could have a higher quality us civil
+
+service in fact here's an idea I would
+
+be in favor of firing half of all
+
+government employees and doubling the
+
+salary of the remaining government
+
+employees that wouldn't be a cheaper
+
+government but it would be a more
+
+efficient government yeah or even
+
+redistributing half of the money to poor
+
+people or something or or to to Citizens
+
+just straight in their pockets well sure
+
+sure sure but but Eric let's be let's be
+
+real poor citizens are politically much
+
+less powerful or middle class citizens
+
+are much less powerful in the government
+
+officials can you just imagine the
+
+vicious office politics fights inside of
+
+the Pentagon if people here you know
+
+we're firing half of you but the rest of
+
+you get a pay
+
+raise your salaries doubled how fast
+
+would they be to uh to show flaws or
+
+incompetence or corruption or crime or
+
+collusion by their former colleagues
+
+wow it'll be it'll be it'll be a battle
+
+royale I mean maybe that's an idea you
+
+can have a battle royale uh where uh you
+
+know every every week you select to
+
+hunger government officials to argue who
+
+should be
+
+Fir and the winner gets the winner gets
+
+all the winner gets all EX exactly which
+
+uh which 20 to 30% should be privatized
+
+and and why what should be private
+
+versus made public well that's a very
+
+it's a tricky question it's one that I
+
+would answer partially through empirical
+
+thinking and partially through like a
+
+deep reevaluation of like um just our
+
+understanding of how Society works I
+
+want to emphasize that it's really
+
+difficult to figure out what would work
+
+many things that sound nice in practice
+
+don't seem to work out very well uh in
+
+the world I I honestly believe that I
+
+would be much more interested in for
+
+example reducing the scope and powers of
+
+the FDA in terms of ensuring uh Food and
+
+Drug safety and say in exchange using
+
+some of that budget to fund new
+
+developments right in a very similar way
+
+to DARPA right why couldn't we have a
+
+medical DARPA people talk about a
+
+Manhattan Project to cure cancer well
+
+who's your Oppenheimer and how weird
+
+would a biological op you know bi
+
+ological science Oppenheimer B it would
+
+be a pretty weird guy it'd be hard to
+
+argue that this uh wacky person with
+
+their unusual ideas of cellular biology
+
+should receive I don't know like 2% of
+
+US GDP now of course the FDA has nowhere
+
+there that
+
+budget but perhaps instead of Regulation
+
+more of the government should be engaged
+
+in creation because I think if you give
+
+people several options of which some are
+
+better uh most people voluntarily choose
+
+the better options right so the cleaner
+
+technology like if you have two
+
+technologies and they're about the same
+
+you're going to pick the less polluting
+
+one just because it sounds better just
+
+because you feel better about it
+
+personally so I think maybe government
+
+should be actually in the business of
+
+creating more options like that rather
+
+than uh being just a control system on
+
+existing options so number one most most
+
+of those should be shrunk most of the
+
+regulatory mechanisms and the second one
+
+is I I really think that the defense
+
+department you know it's it's the case
+
+that the US military is still quite
+
+dominant and it's betting on technology
+
+but it could be betting on technology
+
+much more efficiently I think that there
+
+are just a number of Cold War era
+
+military hypotheses that are not true in
+
+fact the war in Ukraine has already
+
+disproved some important hypothesis
+
+right how many tanks does the US
+
+military need versus how many artillery
+
+shells or how many drones so I think
+
+that there's a whole bunch of programs
+
+that basically should be retired in that
+
+budget I think with regard to
+
+subsidizing basically
+
+medicine I think we should be very
+
+careful I think
+
+consumers should receive basically money
+
+that they spend however they wish and we
+
+should not have this overly complex
+
+compliance mechanism set in like I think
+
+that you know the big body of Public
+
+Health policy actually has very few
+
+cases where it's very useful so th those
+
+were some examples right those were some
+
+examples where I I really do think that
+
+uh those budgets could be shrank and it
+
+would be politically viable there a good
+
+examples let's just zoom out and talk
+
+about the budget more broadly it's my
+
+understanding that two-thirds of the
+
+government budget is healthare uh Social
+
+Security and defense and so there's no
+
+reforming uh you know government budget
+
+significant you know 90% without
+
+drastically reducing those three like
+
+even things like education I believe are
+
+something like three 3% and so how do
+
+you think about H how the government
+
+spends its money uh currently or in
+
+terms or give more context on the budget
+
+as you see it as you understand it today
+
+and if we could wave a wall within maybe
+
+those three buckets how could we reduce
+
+those and still get uh you know some
+
+quality well I honestly you know healthc
+
+care is about
+
+21% I honestly would reduce it to 10% I
+
+would reduce a 10% radically deregulate
+
+and give uh every US citizen you know
+
+basically a medical check that they can
+
+spend however they want right I would be
+
+open to the people choosing to spend it
+
+on acupuncture
+
+people spending it on Homeopathy people
+
+spending it on plastic surgery they
+
+could spend it on anything they want
+
+because then consumer choice would work
+
+you know we've had Fab at my La friends
+
+um you know uh they talk about the
+
+wonderful things plastic surgery can do
+
+these days you know I've never had a
+
+procedure I don't know you know what to
+
+think of that
+
+necessarily but the costs are not
+
+ballooning there quite as much as they
+
+are for cancer and you know let's be
+
+honest if as a
+
+society we wanted to like you know do
+
+good and wanted to kind of stop zero
+
+some races shouldn't the plastic surgery
+
+be getting much more expensive and the
+
+cancer treatment's getting much cheaper
+
+it's like it's kind of like a positional
+
+good right the main value of being
+
+beautiful is that you're the most
+
+beautiful so even if the stuff works
+
+which is sometimes
+
+dubious I do think we should try to give
+
+the consumer
+
+Choice um we should give consumer Choice
+
+um more more freedom to actually pick
+
+the kind of medical procedures people
+
+want for the reasons that they want
+
+right and the reason for this partially
+
+is that you know the placebo effect is
+
+so strong and our medical knowledge is
+
+so weak that I bet on net we would
+
+actually see better health outcomes at
+
+about the same amount of money spent by
+
+the government so shrink it you know
+
+shrink it by half um and basically let
+
+uh let people of all classes have an
+
+equal share like everyone could get I
+
+don't know $50,000 a year or $20,000 a
+
+year to spend on their medical expenses
+
+these are already truly astounding
+
+numbers like the whole medical
+
+bureaucracy a lot of it semi- privatized
+
+and this extremely dysfunctional way is
+
+so big already that we we we really are
+
+talking about such huge numbers per
+
+citizen um I think you know education is
+
+trickier because education is Secret
+
+daycare the reality is the modern
+
+economy doesn't know what to do with
+
+children and doesn't even know what to
+
+do with young adults so we put them in
+
+school and we pretend that they're
+
+learning and then we have prison labor
+
+to uh you know keep them busy and maybe
+
+they learn something on the side so yeah
+
+we can I'm being provocative here Eric
+
+but I hear you I mean that it felt like
+
+prison to me when I was in high school I
+
+was like what am I doing I I mean
+
+exactly right you know it's telling how
+
+much again how much younger people used
+
+to be before they were allowed to
+
+contribute to society and how far
+
+self-education can actually go among the
+
+most talented and when it comes again to
+
+having the freedom to research or do
+
+great things like you know wouldn't it
+
+be much better if say the US
+
+government cut the education budget down
+
+by $5 billion let's say and set aside a
+
+billion dollars of it to be metered out
+
+by let's say say 200 people where each
+
+of them gets to pick an 18-year-old that
+
+is not a relative so I would put that
+
+constraint in you can't give it to your
+
+kids everyone of those 220 or 200
+
+government officials with that billion
+
+dollar a year budget that still produce
+
+the $4 billion do savings if they could
+
+each give a four-year Grant to someone
+
+and be like you have temporary tenure
+
+you have shown to be excellent talented
+
+you know you you aced whatever test
+
+program we had here's your budget knock
+
+yourself out for the first five years uh
+
+of your working adult life you get to do
+
+whatever you want scientifically can you
+
+imagine it it would be a government
+
+funded teal Fellowship I mean maybe you
+
+know maybe they should hire hire teal
+
+even to do it I bet he'd be happy to do
+
+it if it wasn't his money isn't that
+
+better
+
+yeah right so uh again this this sort of
+
+creative thinking is
+
+busting people out of these traps where
+
+we needed to house children as parents
+
+went to the factory parents left the
+
+factory and they're now in the office
+
+and we need to house children even more
+
+now and not only is it a gentrac society
+
+where promotion opportunities are rare
+
+more and more we're engaged in the zero
+
+some race where you know the main value
+
+of going to Harvard is sort of
+
+demonstrating that you made it to
+
+Harvard and most of the other kids of
+
+your generation didn't right like that
+
+that positional good aspect together
+
+with this well the parents are spending
+
+more and more of their time working
+
+they're not you know spending time with
+
+their children we actually don't want
+
+parents spending time with their
+
+children because then we can you know
+
+maybe politically also influence the
+
+children to have a certain worldview
+
+right politically that formula has
+
+become dominant nearly everywhere in the
+
+world you know it's good for the
+
+stability of the Chinese Communist party
+
+that most young Chinese students spend
+
+all of their energies prepping to get
+
+into the right
+
+universities that's good what would they
+
+be doing otherwise they might be up to
+
+no good but it's also good for the
+
+stability of the US system right so we
+
+we have definitely locked up youth
+
+rather than strengthened Youth and I'm
+
+not necessarily even proposing being uh
+
+you know throwing them into the econ e
+
+because it's quite plausible the economy
+
+actually has less use for them than it
+
+did 100 years ago or 50 years ago
+
+technology you know we don't need
+
+Chimney Sweeper sweeper boys and maybe
+
+we don't need interns to get us coffee
+
+anymore and retype our papers because we
+
+just press we just press copy we press
+
+the copy button no need to retype a
+
+paper if you can do that right um the
+
+automation of office work from 1940 to
+
+2020 explains a lot about the changes in
+
+White Collar culture it's part of what
+
+has made it less hierarchical in a way
+
+right there used to be these like menial
+
+Almost craftsmanlike White Collar tasks
+
+so if we go through further in the
+
+budget I already argued that we could
+
+get defense much more cost effectively
+
+partial privatization there I would be
+
+in favor of new companies uh such as
+
+paler and uh you know of course andero
+
+yes but I would also be in favor of
+
+explicitly carving out um money for new
+
+companies for the sake of new companies
+
+it's like there's nothing wrong with
+
+Boeing though if we're listening now
+
+about what's happening to various
+
+aircraft uh maybe we'd have a different
+
+opinion but isn't it nice that SpaceX
+
+came and started building
+
+Rockets even for military purposes will
+
+SpaceX build better Rockets t years from
+
+now than whoever the contractor is for
+
+making America's
+
+icbms and that's like a you know it's a
+
+civilian
+
+company but it'll probably start beating
+
+the defense companies fairly soon on
+
+technological
+
+fundamentals possibly we should retire
+
+large defense
+
+conglomerates possibly we should be
+
+saying to Boeing hey for the next 20
+
+years you get to build defense Tech and
+
+after that I'm sorry you're not allowed
+
+to build defense Tech
+
+you're going to have to commercialize
+
+your technology of today think of how
+
+crazy that world would be it would be a
+
+more advanced world I'm sure what about
+
+social security social security has um a
+
+significant here's the thing I think
+
+that the Ubi Advocates so Universal
+
+basic income Advocates are correct in
+
+that we spend a lot of money and a lot
+
+of Labor to stop individuals we think of
+
+as undeserving
+
+uh to receive government
+
+benefits people who want to game the
+
+system receive government benefits
+
+anyway and this raises the barrier for a
+
+lot of people to receive services and
+
+funds it's also true again that if you
+
+give people money and don't tell them
+
+what to spend it on you know they'll
+
+generally spend it on what they want to
+
+spend it on what The Advocates of Ubi
+
+never manag to explain is how exactly
+
+are you going to make Ubi as politically
+
+powerful as full-time government workers
+
+administrating projects that end up
+
+being price here than Ubi right they
+
+posit a moment after what's essentially
+
+a political revolution that transforms
+
+the um essentially Social Democratic
+
+political economy that all Western
+
+countries including the United States
+
+are running into something quite
+
+different and
+
+further there is a way in which ad
+
+advocating for a universal benefit might
+
+be a much stronger argument for taxation
+
+than what we have currently The
+
+Advocates of Ubi imagine a much lower
+
+budget where you accomplish stuff that
+
+you know all the things we think of a
+
+social security as providing but much
+
+more cheaply but who anywhere would
+
+argue against increasing a direct
+
+transfer to all
+
+citizens right now I think there is a
+
+way in which uh in the US the
+
+dysfunctionality of government is also
+
+politically useful you can scapegoat the
+
+bureaucrat so even when the bureaucrat
+
+is quite efficient as in DARPA
+
+politically it still works well enough
+
+for votes to rail against the bureaucrat
+
+but as soon as you have something like a
+
+direct transfer you have an angry
+
+citizen being like you know saying uh
+
+you know get the government's hands off
+
+my Medicaid something that I think you
+
+know the Democrats rightly meet fun of
+
+but uh I think with Ubi you know it's it
+
+is yet to be demonstrated that you can
+
+have Ubi without a very rapid race to
+
+the bottom of
+
+redistribution so those are the two
+
+problems first off if it's more
+
+efficient where is political power
+
+coming from secondly once you've
+
+defeated the entrenched civil servants
+
+what prevents a race to the bottom uh
+
+and that eventually breaks the economy
+
+yeah not not to mention open borders um
+
+you know yeah of course like you know if
+
+you have Ubi you're going to have to
+
+have a tough border policy yeah exactly
+
+how are you going to ideologically
+
+justify that that's an interesting
+
+question right how about the regulatory
+
+capture side of things where where
+
+companies get so powerful that they can
+
+Lobby and make you know add more
+
+regulations that make it difficult for
+
+other people to
+
+compete talk more about how could we fix
+
+or mitigate the negatives of regulatory
+
+capture I again think that having
+
+permanent timeout for contracts might be
+
+a good idea it might be like hey
+
+congratulations defense company you get
+
+to do this and for a large country like
+
+the United States there's no serious
+
+problem with having multiple companies
+
+be able to produce the same thing for
+
+smaller countries like say Israel
+
+Singapore honestly even medium-sized
+
+countries like Britain or France your
+
+economy might only be big enough for one
+
+or two contractors that can build an
+
+aircraft carrier or that can build 500
+
+planes in the US I think we can uh
+
+achieve something by intentionally
+
+cultivating new companies this way you
+
+might artificially induce some of the
+
+benefits of creative destruction um the
+
+sharian Gale where you know there's a
+
+company that uses new technologies and
+
+on your neutal metrics performs better
+
+uh than the incumbent company and then
+
+more of the government contracts can
+
+shift to that
+
+company um that's one that's one thing
+
+that I do think has been actually done
+
+in the case of NASA now NASA is not
+
+defense but I do think when people talk
+
+up the achievements of SpaceX they
+
+should rather also talk up the
+
+achievements of how uh of NASA spending
+
+since NASA spending incubated SpaceX in
+
+it was a political achievement to have
+
+an agency give it to a new unproven
+
+company rather than the company they'd
+
+always worked with right um and you know
+
+because of that the US is launching more
+
+tons of stuff into orbit than any other
+
+country around the world it's utterly
+
+blown uh Russia's uh competitiveness in
+
+the International satellite launch
+
+market had it only been boing and the
+
+United launch Alliance they would have
+
+never done that so you know
+
+intentionally funding the creation of
+
+new companies that have nothing to do
+
+with the old establishment companies
+
+that's a good idea so even though that's
+
+a spend more money it's a kind of spend
+
+more money to get a new replacement that
+
+undercuts the previous government
+
+contractor I think that could work very
+
+well in the US context because it's it's
+
+big enough another possibility I think
+
+also is this almost the creation of a
+
+government task force
+
+that would audit which companies are
+
+inefficient and then be allowed to spend
+
+money to try to fund their replacement
+
+to demonstrate it so I'm imagining uh
+
+you know a group of technologists goes
+
+looks looks at the F35 and they're like
+
+well we can actually replicate half of
+
+these functions and then spends their
+
+years's budget of $50 million on just a
+
+new piece of technology or on a new
+
+provider
+
+that demonstrates that they can make a
+
+similar uh similar machine much more
+
+cheaply so these are somewhat engineer
+
+based fixes I admit they're clever
+
+things you could do with incentives but
+
+I think those would require a bit more
+
+time to sketch out the maybe gearing
+
+towards closing here it's it's worth
+
+just noting that even uh most conscious
+
+Democrats people like uh Ezra Klein uh
+
+Matty glaus Noah Smith
+
+have uh coal all of whom are friends of
+
+mine who have coalesced around this idea
+
+that government is not working even the
+
+biggest Defenders of of government are
+
+saying hey it's not working the way it
+
+should be you Ezra Klein is is great New
+
+York Times piece everything bagel
+
+liberalism where uh the left is just
+
+asking for too many things and uh
+
+putting too many regulations such that
+
+you know on issues that that everyone
+
+should care about like uh housing
+
+healthare and education uh the
+
+government is just not working
+
+effectively and so um when both parties
+
+are agreeing even the party of big
+
+government it's uh it's it's just worth
+
+noting that uh you know there's
+
+bipartisan support for for being more
+
+effective and efficient and then the
+
+real question is will there will there
+
+be alignment on or the courage you know
+
+uh necessary to do what needs to be
+
+done I think that grounding it in the
+
+perspective of State capacity has some
+
+things to recommend it where the debate
+
+of what government is already doing and
+
+can it do it uh I think that is where
+
+the debate should Center totally that
+
+seems like a good place to to to wrap
+
+unless there's anything you want to you
+
+want to close on no I think that's
+
+good thanks for listening to Live
+
+players Please Subscribe leave a review
+
+and check out s's excellent newsletter
+
+the Bismark brief for more rigorous
+
+analysis of key individuals institutions
+
+or Industries Live players is a
+
+production of turpentine the podcast
+
+Network behind e 102 with Noah Smith and
+
+Moment of
+
+Zen
+

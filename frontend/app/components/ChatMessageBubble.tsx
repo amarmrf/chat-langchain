@@ -361,7 +361,7 @@ export function ChatMessageBubble(props: {
               loadingText="🔄"
               color="white"
             >
-              🦜🛠️ View trace
+              📚🔍 View source
             </Button>
           </HStack>
         )}
