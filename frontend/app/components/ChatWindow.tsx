@@ -222,7 +222,7 @@ export function ChatWindow(props: { conversationId: string }) {
           mb={1}
           color={"white"}
         >
-          Cultural Research Assistant 📚
+          Live Players Assistant 📚
         </Heading>
         {messages.length > 0 ? (
           <Heading fontSize="md" fontWeight={"normal"} mb={1} color={"white"}>
@@ -236,7 +236,7 @@ export function ChatWindow(props: { conversationId: string }) {
             marginTop={"10px"}
             textAlign={"center"}
           >
-            Ask me anything about Live Players Podcast based on our research lectures transcripts!
+            Ask me anything about Live Players Podcast!
           </Heading>
         )}
         <div className="text-white flex flex-wrap items-center mt-4">
@@ -328,7 +328,7 @@ export function ChatWindow(props: { conversationId: string }) {
             target="_blank"
             className="text-white flex items-center"
           >
-            <span>Cultural Research</span>
+            <span>Live Players</span>
           </a>
         </footer>
       ) : (

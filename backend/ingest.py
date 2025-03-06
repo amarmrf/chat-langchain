@@ -1,4 +1,4 @@
-"""Load lectures transcript text files, clean up, split, ingest into Weaviate."""
+"""Load podcast transcript text files, clean up, split, ingest into Weaviate."""
 import logging
 import os
 import re
@@ -35,7 +35,7 @@ def extract_title_from_filename(filepath: str) -> str:
 
 
 def load_lectures_transcripts():
-    """Load lectures transcript files from the transcripts directory."""
+    """Load podcast transcript files from the transcripts directory."""
     transcript_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "transcripts")
     transcript_files = glob.glob(os.path.join(transcript_dir, "*.txt"))
     
@@ -92,7 +92,7 @@ def ingest_docs():
     record_manager.create_schema()
 
     lectures_transcripts = load_lectures_transcripts()
-    logger.info(f"Loaded {len(lectures_transcripts)} lectures transcripts")
+    logger.info(f"Loaded {len(lectures_transcripts)} podcast transcripts")
 
     docs_transformed = text_splitter.split_documents(lectures_transcripts)
     docs_transformed = [doc for doc in docs_transformed if len(doc.page_content) > 10]

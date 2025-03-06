@@ -37,7 +37,7 @@ from langsmith import Client
 
 RESPONSE_TEMPLATE = """\
 You are an expert on Cultural research, tasked with answering questions \
-about the Culture and related teachings based on lectures transcripts.
+about Live Players Podcast and related ideas.
 
 Generate a comprehensive and informative answer of 80 words or less for the \
 given question based solely on the provided search results (source and content). You must \
@@ -69,7 +69,7 @@ user.\
 
 COHERE_RESPONSE_TEMPLATE = """\
 You are an expert on Cultural research, tasked with answering questions \
-about the Culture and related teachings based on lectures transcripts.
+about Live Players Podcast and related ideas.
 
 Generate a comprehensive and informative answer of 80 words or less for the \
 given question based solely on the provided search results (source and content). You must \
