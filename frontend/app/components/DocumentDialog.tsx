@@ -13,9 +13,11 @@ import {
   Flex,
   Divider,
   Spinner,
+  Button,
 } from "@chakra-ui/react";
-import { ExternalLinkIcon } from "@chakra-ui/icons";
+import { ExternalLinkIcon, RepeatIcon } from "@chakra-ui/icons";
 import { Source } from "./SourceBubble";
+import { apiBaseUrl } from "../utils/constants";
 
 // Function to clean up the source title by removing breadcrumbs and numbers
 const cleanSourceTitle = (title: string): string => {
@@ -45,6 +47,8 @@ export function DocumentDialog({
 }: DocumentDialogProps) {
   const [transcriptContent, setTranscriptContent] = useState<string>(content);
   const [isLoading, setIsLoading] = useState<boolean>(false);
+  const [errorMessage, setErrorMessage] = useState<string>("");
+  const [retryCount, setRetryCount] = useState<number>(0);
 
   useEffect(() => {
     // Update transcriptContent when content prop changes
@@ -53,36 +57,76 @@ export function DocumentDialog({
     }
   }, [content]);
 
-  useEffect(() => {
-    const fetchTranscriptContent = async () => {
-      if (isOpen && source.url && !transcriptContent) {
-        setIsLoading(true);
-        try {
-          // Extract the path from the source URL
-          const filePath = source.url;
+  const fetchTranscriptContent = async (forceRefresh = false) => {
+    if ((isOpen && source.url && (!transcriptContent || forceRefresh)) || retryCount > 0) {
+      setIsLoading(true);
+      setErrorMessage("");
+      try {
+        // Fetch content from the vector database using the API
+        const response = await fetch(`${apiBaseUrl}/get_document_content`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ document_id: source.url }),
+        });
+        
+        if (response.ok) {
+          const data = await response.json();
+          if (data && data.content) {
+            setTranscriptContent(data.content);
+            setErrorMessage("");
+          } else {
+            console.error("Invalid response format:", data);
+            setErrorMessage("Error: Could not load content from the database.");
+          }
+        } else {
+          console.error("Failed to load transcript content, status:", response.status);
           
-          // Read the file content directly, skipping if it's already loaded
-          if (filePath && filePath.endsWith('.txt')) {
-            const response = await fetch(filePath);
-            if (response.ok) {
-              const textContent = await response.text();
-              setTranscriptContent(textContent);
-            } else {
-              console.error("Failed to load transcript content");
-              setTranscriptContent("Failed to load transcript content");
+          // If it's a 404, try one more time with just the filename
+          if (response.status === 404 && source.url.includes('/')) {
+            const filename = source.url.split('/').pop();
+            if (filename) {
+              console.log("Trying with filename only:", filename);
+              const retryResponse = await fetch(`${apiBaseUrl}/get_document_content`, {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ document_id: filename }),
+              });
+              
+              if (retryResponse.ok) {
+                const data = await retryResponse.json();
+                if (data && data.content) {
+                  setTranscriptContent(data.content);
+                  setErrorMessage("");
+                  setIsLoading(false);
+                  return;
+                }
+              }
             }
           }
-        } catch (error) {
-          console.error("Error loading transcript:", error);
-          setTranscriptContent("Error loading transcript content");
-        } finally {
-          setIsLoading(false);
+          
+          setErrorMessage(`Failed to load transcript content (Status: ${response.status})`);
         }
+      } catch (error) {
+        console.error("Error loading transcript:", error);
+        setErrorMessage(`Error loading transcript: ${error instanceof Error ? error.message : String(error)}`);
+      } finally {
+        setIsLoading(false);
+        setRetryCount(0);
       }
-    };
+    }
+  };
 
+  useEffect(() => {
     fetchTranscriptContent();
-  }, [isOpen, source.url, transcriptContent]);
+  }, [isOpen, source.url, retryCount]);
+
+  const handleRetry = () => {
+    setRetryCount(prev => prev + 1);
+  };
 
   return (
     <Modal 
@@ -104,17 +148,30 @@ export function DocumentDialog({
             <Heading size="md" color="white">
               {cleanSourceTitle(source.title)}
             </Heading>
-            {source.url && !source.url.includes("[") && (
-              <Link 
-                href={source.url} 
-                isExternal 
-                color="blue.300"
-                display="flex"
-                alignItems="center"
+            <Flex>
+              <Button 
+                leftIcon={<RepeatIcon />} 
+                size="sm"
+                colorScheme="blue"
+                variant="ghost"
+                mr={3}
+                onClick={() => fetchTranscriptContent(true)}
+                isLoading={isLoading}
               >
-                Source <ExternalLinkIcon mx="2px" />
-              </Link>
-            )}
+                Refresh
+              </Button>
+              {source.url && !source.url.includes("[") && (
+                <Link 
+                  href={source.url} 
+                  isExternal 
+                  color="blue.300"
+                  display="flex"
+                  alignItems="center"
+                >
+                  Source <ExternalLinkIcon mx="2px" />
+                </Link>
+              )}
+            </Flex>
           </Flex>
         </ModalHeader>
         <ModalCloseButton />
@@ -131,6 +188,13 @@ export function DocumentDialog({
             {isLoading ? (
               <Flex justify="center" align="center" my={10}>
                 <Spinner size="lg" />
+              </Flex>
+            ) : errorMessage ? (
+              <Flex direction="column" align="center" my={5}>
+                <Text color="red.300" mb={3}>{errorMessage}</Text>
+                <Button size="sm" leftIcon={<RepeatIcon />} onClick={handleRetry}>
+                  Retry
+                </Button>
               </Flex>
             ) : (
               <Text whiteSpace="pre-wrap" fontSize="sm">

@@ -3,6 +3,7 @@ import "react-toastify/dist/ReactToastify.css";
 import { Card, CardBody, Heading, Text, Flex, Box, Divider } from "@chakra-ui/react";
 import { sendFeedback } from "../utils/sendFeedback";
 import { DocumentDialog } from "./DocumentDialog";
+import { apiBaseUrl } from "../utils/constants";
 
 export type Source = {
   url: string;
@@ -42,24 +43,62 @@ export function SourceBubble({
   const [isDialogOpen, setIsDialogOpen] = useState(false);
   const [snippetContent, setSnippetContent] = useState<string>("");
   const [isLoading, setIsLoading] = useState<boolean>(false);
+  const [errorMessage, setErrorMessage] = useState<string>("");
 
   // Fetch content for snippet preview
   useEffect(() => {
     const fetchSnippetContent = async () => {
-      if (source.url && !snippetContent) {
+      if (source.url && !snippetContent && !errorMessage) {
         setIsLoading(true);
         try {
-          const filePath = source.url;
+          // Instead of fetching from the file directly, fetch from the vector database
+          const response = await fetch(`${apiBaseUrl}/get_document_content`, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ document_id: source.url }),
+          });
           
-          if (filePath && filePath.endsWith('.txt')) {
-            const response = await fetch(filePath);
-            if (response.ok) {
-              const textContent = await response.text();
-              setSnippetContent(textContent);
+          if (response.ok) {
+            const data = await response.json();
+            if (data && data.content) {
+              setSnippetContent(data.content);
+              setErrorMessage("");
+            } else {
+              console.error("Invalid response format:", data);
+              setErrorMessage("Could not load content.");
             }
+          } else {
+            console.error("Error loading snippet: API returned status", response.status);
+            // If it's a 404, we'll try one more time with just the filename
+            if (response.status === 404 && source.url.includes('/')) {
+              const filename = source.url.split('/').pop();
+              if (filename) {
+                const retryResponse = await fetch(`${apiBaseUrl}/get_document_content`, {
+                  method: 'POST',
+                  headers: {
+                    'Content-Type': 'application/json',
+                  },
+                  body: JSON.stringify({ document_id: filename }),
+                });
+                
+                if (retryResponse.ok) {
+                  const data = await retryResponse.json();
+                  if (data && data.content) {
+                    setSnippetContent(data.content);
+                    setErrorMessage("");
+                    setIsLoading(false);
+                    return;
+                  }
+                }
+              }
+            }
+            setErrorMessage(`Could not load content (${response.status})`);
           }
         } catch (error) {
           console.error("Error loading snippet:", error);
+          setErrorMessage("Network error loading content");
         } finally {
           setIsLoading(false);
         }
@@ -67,7 +106,7 @@ export function SourceBubble({
     };
 
     fetchSnippetContent();
-  }, [source.url, snippetContent]);
+  }, [source.url, snippetContent, errorMessage]);
 
   const handleCardClick = async () => {
     setIsDialogOpen(true);
@@ -113,8 +152,11 @@ export function SourceBubble({
               {isLoading && (
                 <Text fontSize="xs" color="gray.400">Loading...</Text>
               )}
-              {!isLoading && !snippetContent && (
+              {!isLoading && !snippetContent && !errorMessage && (
                 <Text fontSize="xs" color="gray.400">No preview available</Text>
+              )}
+              {!isLoading && errorMessage && (
+                <Text fontSize="xs" color="red.300">{errorMessage}</Text>
               )}
             </Box>
           </Flex>
@@ -125,7 +167,7 @@ export function SourceBubble({
         isOpen={isDialogOpen}
         onClose={() => setIsDialogOpen(false)}
         source={source}
-        content={snippetContent}
+        content={snippetContent || errorMessage}
         description="View full documentation source"
       />
     </>
