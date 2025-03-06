@@ -28,13 +28,10 @@ import { Source } from "./SourceBubble";
 import { apiBaseUrl } from "../utils/constants";
 
 const MODEL_TYPES = [
-  "openai_gpt_3_5_turbo",
   "openai_gpt_4o_mini",
-  "anthropic_claude_3_haiku",
   "anthropic_claude_3_5_haiku",
   "google_gemini_pro",
   "fireworks_mixtral",
-  "cohere_command",
 ];
 
 const defaultLlmValue =
@@ -50,7 +47,7 @@ export function ChatWindow(props: { conversationId: string }) {
   const [input, setInput] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const [llm, setLlm] = useState(
-    searchParams.get("llm") ?? "openai_gpt_3_5_turbo",
+    searchParams.get("llm") ?? "openai_gpt_4o_mini",
   );
   const [llmIsLoading, setLlmIsLoading] = useState(true);
   useEffect(() => {
@@ -113,7 +110,7 @@ export function ChatWindow(props: { conversationId: string }) {
           timeout: 60000,
         },
       });
-      const llmDisplayName = llm ?? "openai_gpt_3_5_turbo";
+      const llmDisplayName = llm ?? "openai_gpt_4o_mini";
       const streamLog = await remoteChain.streamLog(
         {
           question: messageValue,
@@ -253,15 +250,12 @@ export function ChatWindow(props: { conversationId: string }) {
                 }}
                 width={"240px"}
               >
-                <option value="openai_gpt_3_5_turbo">GPT-3.5-Turbo</option>
                 <option value="openai_gpt_4o_mini">GPT-4o Mini</option>
-                <option value="anthropic_claude_3_haiku">Claude 3 Haiku</option>
                 <option value="anthropic_claude_3_5_haiku">Claude 3.5 Haiku</option>
                 <option value="google_gemini_pro">Google Gemini Pro</option>
                 <option value="fireworks_mixtral">
                   Mixtral (via Fireworks.ai)
                 </option>
-                <option value="cohere_command">Cohere</option>
               </Select>
             )}
           </div>
