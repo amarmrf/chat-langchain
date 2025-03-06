@@ -36,4 +36,4 @@ next-env.d.ts
 
 .yarn/
 # GCP environment file
-env.gcp.yaml
+.env.gcp.yaml
