@@ -59,3 +59,31 @@ Looking to use or modify this Use Case Accelerant for your own needs? We've adde
 - **[LangSmith](./LANGSMITH.md)**: A guide on adding robustness to your application using LangSmith. Covers observability, evaluations, and feedback.
 - **[Production](./PRODUCTION.md)**: Documentation on preparing your application for production usage. Explains different security considerations, and more.
 - **[Deployment](./DEPLOYMENT.md)**: How to deploy your application to production. Covers setting up production databases, deploying the frontend, and more.
+
+# Chat LangChain
+
+A chat application built with LangChain, designed to provide sophisticated conversational AI capabilities.
+
+## Features
+
+- Interactive chat interface
+- Integration with multiple LLM providers
+- Document retrieval and context-aware responses
+- Feedback collection and reporting
+
+## Deployment
+
+This application can be deployed to Google Cloud Run using the following command:
+
+```
+gcloud run deploy chat-langchain --source . --port 8080 --env-vars-file .env.gcp.yaml --allow-unauthenticated --region us-west1 --min-instances 1
+```
+
+## Local Development
+
+To set up the project locally:
+
+1. Install Poetry
+2. Run `poetry install`
+3. Configure environment variables
+4. Start the application with `uvicorn backend.main:app --reload`
